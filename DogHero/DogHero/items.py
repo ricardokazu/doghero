@@ -6,6 +6,7 @@
 # https://doc.scrapy.org/en/latest/topics/items.html
 
 import scrapy
+from scrapy.contrib.loader import ItemLoader
 from scrapy.loader.processors import MapCompose, TakeFirst, Join
 from w3lib.html import remove_tags
 
@@ -17,6 +18,16 @@ class DogheropsItem(scrapy.Item):
 def street_process (value):
     value = value.split("-")
     return value[0].strip()
+
+class PriceMeta (scrapy.Item):
+    price_original = scrapy.Field( 
+        input_processor= MapCompose(str.strip),
+        output_processor= TakeFirst()
+    )
+    price_extra = scrapy.Field( 
+        input_processor= MapCompose(str.strip),
+        output_processor= TakeFirst()
+    )
 
 class ImovelItem (scrapy.Item):
     title = scrapy.Field(
@@ -39,12 +50,12 @@ class ImovelItem (scrapy.Item):
         output_processor= Join(' ')
     )
 
-    price = scrapy.Field(
-        input_processor= MapCompose(str.strip),
-        output_processor= TakeFirst()
-    )
+    price = scrapy.Field(serializer = PriceMeta)
 
-    price_condo = scrapy.Field( 
-        input_processor= MapCompose(str.strip),
-        output_processor= TakeFirst()
-    )
+class MainItemLoader(ItemLoader):
+    default_item_class = ImovelItem
+    default_output_processor = TakeFirst()
+
+class PriceItemLoader(ItemLoader):
+    default_item_class = PriceMeta
+    default_output_processor = TakeFirst()
