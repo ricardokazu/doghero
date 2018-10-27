@@ -17,7 +17,7 @@ class ImovelWebSpider (scrapy.Spider):
     #Response
     def parse(self,response):
         for imovel in response.xpath("//li[contains(@class, 'aviso aviso-desktop')]"):
-            loader = MainItemLoader(Item = imovel, selector=Selector(response), response= response)
+            loader = MainItemLoader(selector=imovel, response= response)
             loader.add_xpath('title', ".//h4[@class='aviso-data-title']/a/text()")
             loader.add_xpath('location_street', ".//span[contains(@class, 'aviso-data-location')]/text()[1]")
             loader.add_xpath('location_city', ".//span[contains(@class, 'aviso-data-location')]/span")
@@ -32,7 +32,7 @@ class ImovelWebSpider (scrapy.Spider):
 #            next_page_link= response.urljoin(next_page)
 #            yield scrapy.Request(url=next_page_link, callback=self.parse)
 
-    def get_price(self, Item,  response):
-        loader = PriceItemLoader(Item = Item, selector=Selector(response), response= response)
+    def get_price(self, Selector,  response):
+        loader = PriceItemLoader(selector=Selector, response= response)
         loader.add_xpath('price_original', ".//div[@class='aviso-data-price-content']/span[contains(@class, 'aviso-data-price-value')]/text()")
         loader.add_xpath('price_extra', ".//div[@class='aviso-data-price-content']/span[contains(@class, 'aviso-data-expensas-value')]/text()")
