@@ -5,7 +5,7 @@ from scrapy.spiders import CrawlSpider, Rule
 from DogHero.items import CrawlerItem, CrawlerItemLoader
 from scrapy.selector import Selector    
 
-totalpages = 2000
+totalpages = 10
 
 class ImovelwebcrawlSpider(CrawlSpider):
     name = 'ImovelWebCrawl_final'
@@ -20,7 +20,7 @@ class ImovelwebcrawlSpider(CrawlSpider):
 
     custom_settings = {
         'FEED_FORMAT':"csv",
-        'FEED_URI':"imovelwebcrawl.csv"
+        'FEED_URI':"imovelweb.csv"
     }
 
     def parse_item(self, response):

@@ -1,121 +1,321 @@
 Aluguel,Condominio,IPTU,Venda,age_imovel,area_total,area_util,banheiro,city,commonareas,diverseareas,neigghborhood,privateareas,quarto,saletype,street,suite,title,vaga,price_rent_total
-,,100.0,580000.0,,85.0,85.0,2.0,Niterói,,,Icaraí,Esgoto,2.0,Casa,Rua Presidente Backer 184,,"Casa Residencial à Venda, Icaraí, Niterói.",,
-,,1300.0,689000000.0,1,3750.0,3750.0,7.0,Santa Isabel,Espaço Gourmet,,Centro,Suítes,14.0,Rural,"Rua Suzano, 480",2.0,Chácara / Sitio Com 2 Piscinas Com Prainha E Com 2 Casas em Santa Isabel - Sp,12.0,
-,,,426900.0,1,,71.0,2.0,Curitiba,Espaço Gourmet,Andares,Santa Felicidade,Suítes,3.0,Apartamento,"Rua Tobias de Macedo Júnior, 1138",1.0,Promoção à Vista! Apartamento 3 Quartos Ao Lado Do Parque Barigui,2.0,
-,668.0,650.0,5800000.0,2,1200.0,700.0,8.0,Vinhedo,Pista de cooper,,Condomínio Estância Marambaia,Playground,5.0,Casa,Sob Consulta 0,5.0,Casa à Venda em Condomínio Estância Marambaia,4.0,
-,,1500.0,780000.0,,240.0,139.0,3.0,Itapema,,,Meia Praia,Suítes,3.0,Apartamento,Rua 294,3.0,Premiatto Residence,2.0,
-6500.0,2500.0,5000.0,2790000.0,18,2000.0,370.0,8.0,Vinhedo,Campo de futebol,,Centro,Mobiliado,4.0,Casa,Sob Consulta 25,4.0,Casa Á Venda E para Aluguel em Condomínio Morada Do Sol,6.0,9000.0
-,,,499000.0,,12000.0,250.0,3.0,,Forno de pizza,,,Churrasqueira,2.0,Rural,,,"Chácara para Venda - Bragança Paulista / Sp, Bairro Agudo Dos Frias",,
-,,,233700.0,,42.0,42.0,1.0,Guarulhos,,,Vila Galvão,Churrasqueira,2.0,Apartamento,Rua Francisco Pereira 452,,"Apartamento Novo 2 Dorms, Lazer Completo, em Fase De Acabamento, A Poucos m Do Lago Dos Patos",1.0,
-900.0,398.0,54.0,,,,50.0,1.0,Niterói,Salão de festas,,Fonseca,Armário embutido,2.0,Apartamento,Rua Lopes Cunha 145,0.0,Apartamento para Aluguel - em Fonseca,1.0,1298.0
-,445.0,,242000.0,,119.0,85.0,1.0,Curitiba,,,Centro Cívico,Churrasqueira,2.0,Apartamento,Rua Alberto Folloni,1.0,"Apartamento Residencial à Venda, Ahú, Curitiba - Ap1173.",1.0,
-,,50.0,330000.0,,85.0,102.0,2.0,Curitiba,Acesso asfaltado,,Pinheirinho,Suítes,3.0,Casa,Rua João Ferreira da Rocha 303,1.0,Sobrado 03 Quartos Fino Acabamento,2.0,
-,850.0,180.0,696740.0,4,123.0,123.0,3.0,São Bernardo do Campo,Salão de festas,,Baeta Neves,Churrasqueira,3.0,Apartamento,Avenida Pereira Barreto 200,,Apartamento à Venda - em Baeta Neves,2.0,
-2400.0,427.0,859.0,,,,61.0,2.0,Águas Claras,,,Aguas Sul,Churrasqueira,2.0,Apartamento,Avenida das Araucárias 4400,1.0,"Apartamento, 02 Quartos, Via Enseada Home Club, Águas Claras.",2.0,2827.0
-,600.0,100.0,542500.0,,43.0,43.0,2.0,São Paulo,Salão de festas,,Pinheiros,Bicicletário,1.0,Apartamento,Rua Alves Guimarães 1120,,Apartamento à Venda - em Pinheiros,1.0,
-,950.0,333.0,1220000.0,,180.0,131.0,2.0,São Paulo,,,Cerqueira César,Suítes,3.0,Apartamento,Rua Cristiano Viana 1161,,"Apartamento Residencial à Venda, Cerqueira César, São Paulo - Ap0743.",2.0,
+,155.0,786.0,160000.0,,,20.0,1.0,Setor Industrial,,Posição do Apto,Saan,,0.0,Comercial,SAAN,0.0,Saan - Business Center - Sala - Vende - Se,0.0,
+,1568.0,450.0,1850000.0,,168.0,,2.0,Florianópolis,Salão de festas,,Beira Mar Norte,Suítes,2.0,Apartamento,Governador Irineu Bornhausen 3440,2.0,Apartamento à Venda - em Beira Mar Norte,2.0,
+,,,215000.0,Breve lançamento,,44.0,1.0,São Paulo,Fitness/Sala de Ginástica,Aceita FGTS,Vila Pirituba,Varanda Gourmet,2.0,Apartamento,Rua Brigadeiro Godinho dos Santos,0.0,Apartamento Minha Casa Minha Vida Com Terraço E Lazer Completo!,1.0,
+,,400.0,249000.0,,80.0,76.0,1.0,Curitiba,Acesso asfaltado,,Sítio Cercado,Suítes,2.0,Casa,Rua João Cislinsky 48,,"Sobrado Com Terraço, 2 Quartos Sitio Cercado",2.0,
+,3259.0,896.0,1950000.0,27,400.0,191.0,4.0,,,,,Playground,3.0,Apartamento,,3.0,Apartamento à Venda - no Jardim Guedala,3.0,
+2400.0,530.0,180.0,560000.0,,,92.0,3.0,Jundiaí,,,Jardim Flórida,Suítes,3.0,Apartamento,Rua Hilda Del Nero Bisquolo 350,,Lindo Apartamento Á Venda Condomínio Naturale,2.0,2930.0
+,1000.0,280.0,300000.0,4,420.0,420.0,0.0,Santana de Parnaíba,Fitness/Sala de Ginástica,,Alphaville,Guarita,0.0,Terreno,Alameda Arco Iris,0.0,Residencial Itahye Oportunidade,0.0,
+2300.0,,,,99,133.0,133.0,0.0,Santo André,,,Jardim,,2.0,Comercial,Rua Jaguari,1.0,Comercial para Aluguel - no Jardim,2.0,2300.0
+,3000.0,1600.0,3600000.0,10,357.0,440.0,5.0,São Paulo,,,Alto da Boa Vista,,3.0,Casa,R Conde D'eu 1567,3.0,Aceita Permuta Por Apto De Menor Valor,3.0,
+,700.0,,520000.0,,90.0,90.0,3.0,Salvador,Restaurante,,Pituba,Varanda,3.0,Apartamento,R. Amazonas 388,1.0,"Apartamento para Venda - Salvador / Ba, Bairro Pituba",1.0,
+,2600.0,5700.0,3100000.0,1,,330.0,6.0,Salvador,Fitness/Sala de Ginástica,,Barra,Suítes,4.0,Apartamento,Barra,4.0,"Apartamento De Luxo no Morro Ipiranga, 4 Suítes, 330 m&sup2; - Vista Deslumbrante",5.0,
+16500.0,5776.0,1517.0,,2,551.0,550.0,1.0,Jundiaí,Elevador,,Jardim Flórida,,0.0,Comercial,RUA HILDA DEL NERO BISQUOLO,0.0,Locação Jundiaí - Lage Comercial 550 m&sup2; - The One Office Tower,2.0,22276.0
+,700.0,130.0,700000.0,2,120.0,120.0,2.0,Cotia,Fitness/Sala de Ginástica,,Granja Viana,Suítes,3.0,Casa,rua maracatu,1.0,Casa A Venda Abrokers.,2.0,
+,300.0,700.0,450000.0,2,140.0,75.0,2.0,Florianópolis,Salão de festas,,Ingleses,Suítes,2.0,Apartamento,Rua Morro Das Feiticeiras 0,2.0,"Apartamento Residencial à Venda, Ingleses, Florianópolis.",1.0,
+,505.0,294.0,280000.0,,82.0,63.0,2.0,Praia Grande,,,Campo da Aviação,Mobiliado,2.0,Apartamento,Rua Ophélia Caccetari Reis 404,1.0,"Apartamento Residencial à Venda, Campo Da Aviação, Praia Grande.",1.0,
+8500.0,1300.0,375.0,,,,136.0,4.0,São Paulo,Salão de festas,,Vila Olímpia,Ar condicionado,2.0,Apartamento,Rua Gomes de Carvalho 674,2.0,Apartamento para Aluguel - na Vila Olímpia,3.0,9800.0
+,550.0,,395000.0,1,11145.0,70.0,2.0,São Paulo,Fitness/Sala de Ginástica,Aceita FGTS,Jaguaré,Suítes,3.0,Apartamento,Avenida Marechal Mario Guedes,1.0,Apartamento 3 Dormitórios Com Suíte em São Paulo - Sp / Jaguaré,1.0,
+,,,2800000.0,Breve lançamento,117.0,117.0,4.0,Rio de Janeiro,Espaço Gourmet,Andares,Ipanema,Suítes,3.0,Apartamento,barão de jaguaripe 242,3.0,Oportunidade em Ipanema - Apenas 3 Aptos - 3 Suítes no Coração Do Bairro!,2.0,
+,,,240000.0,,1000.0,330.0,2.0,Pinhalzinho,,,Centro,Churrasqueira,3.0,Rural,Rua Variante Americo Pedro Benedetti,,"Chácara Rural à Venda, Zona Rural, Pinhalzinho.",,
+,350.0,550.0,280000.0,35,60.0,60.0,2.0,,Elevador,,,Armário embutido,2.0,Apartamento,,0.0,A Melhor Localização E Preço Da Região.,0.0,
+,,,560000.0,,145.0,97.0,2.0,Itapema,,,Meia Praia,Mobiliado,3.0,Apartamento,Rua 303 160,1.0,Germano,1.0,
+,,,1800000.0,Breve lançamento,412.0,203.0,6.0,Brasília,Espaço Gourmet,,Noroeste,Suítes,3.0,Apartamento,SQNW 107,3.0,"Cobertura, 3 Suites, Vazado, 3 Vagas Soltas, Deposito no Subsolo E Dce",3.0,
+,,,3300000.0,,,335.0,5.0,São Paulo,,,Jardim Anália Franco,Suítes,4.0,Apartamento,Rua Cândido Larceda 241,4.0,Edifício Bauhaus | Anália Franco,5.0,
+,490.0,,907330.0,1,,70.0,2.0,São Paulo,Fitness/Sala de Ginástica,Aceita FGTS,Vila Madalena,Suítes,2.0,Apartamento,"Rua João Moura, 2370",1.0,Poesia Vila Madalena - Apartamentos Novos De 2 E 3 Dorms,1.0,
+,1642.0,4000.0,1690000.0,,155.0,155.0,2.0,Rio de Janeiro,Portão Eletrônico,,Laranjeiras,Churrasqueira,4.0,Apartamento,Rua das Laranjeiras,1.0,Ótima Cobertura Duplex em Laranjeiras,2.0,
+,,,459150.0,1,71.0,71.0,3.0,São Paulo,,Aceita FGTS,Quinta da Paineira,,3.0,Apartamento,"Rua Maria Daffré, 155",1.0,Attuale Com 3 Dormitórios E Terraço Gourmet,1.0,
+,801.0,2638.0,1420000.0,1,274.0,172.0,3.0,Curitiba,Espaço Gourmet,,Centro,Suítes,2.0,Apartamento,Coronel Menna Barreto Monclaro 498,2.0,Linda Cobertura no Ilha De Manhattan,2.0,
+,,,224990.0,1,95.0,61.0,2.0,Curitiba,Fitness/Sala de Ginástica,Aceita FGTS,Portão,,3.0,Apartamento,"R. João Bettega,",1.0,João Bettega Home Club - Apartamento Com 3 Dormitórios E 1 Vaga Coberta,1.0,
+,,1713.0,17980000.0,,716.0,716.0,5.0,,,,,Piso frio,4.0,Casa,,4.0,Casa à Venda - no Jardim Paulista,4.0,
+,,161.0,630000.0,,137.0,194.0,3.0,São Paulo,,,Parque Mandaqui,Churrasqueira,3.0,Casa,R ARTHUR MAZZETTI,1.0,"Sobrado Próximo Da Av Engenheiro Caetano Alvares, Aceita Permuta Por Apto De Menor Valor.",2.0,
+7500.0,800.0,200.0,,,,50.0,1.0,São Paulo,Salão de festas,,Higienópolis,Armário embutido,2.0,Apartamento,Rua Piauí 305,0.0,Apartamento para Aluguel - em Higienópolis,2.0,8300.0
+,390.0,70.0,290000.0,,75.0,75.0,2.0,Paulínia,Espaço Gourmet,,Centro,Churrasqueira,2.0,Apartamento,Sob Consulta,1.0,Apartamento à Venda - no Centro,1.0,
+,,,500000.0,,,84.0,3.0,Camaçari,,,Barra de Jacuipe,,3.0,Casa,Rua Divino Espirito Santo,3.0,Bela Casa em Condomínio Com 3 Suítes.,2.0,
+,,,680000.0,18,120.0,100.0,2.0,Itapema,Sistema de alarme,,Meia Praia,Mobiliado,3.0,Apartamento,Rua 222 115,1.0,"Apartamento Residencial para Venda E Locação, Meia Praia, Itapema.",1.0,
+,,,374000.0,,,87.0,3.0,Praia Grande,Fitness/Sala de Ginástica,,Vila Guilhermina,Suítes,2.0,Apartamento,Rua Ipanema 472,2.0,"Apartamento A Venda, Vila Guilhermina, Praia Grande. Due Fratelli Residence",2.0,
+1250.0,400.0,10.0,,5,35.0,28.0,1.0,Curitiba,Salão de festas,Andares,Centro,Mobiliado,1.0,Apartamento,Rua Barão do Rio Branco,0.0,100% Mobiliado E Central - Com Wifi - Ao Lado Shopping Estação,0.0,1650.0
+2800.0,1.0,,,5,25000.0,83.0,2.0,Santos,Espaço Gourmet,,Marapé,Permite animais,3.0,Apartamento,AV DOUTOR MOURA RIBEIRO 125,1.0,Oportunidade Única!,1.0,2801.0
+,11400.0,32000.0,4780000.0,,618.0,618.0,7.0,Rio de Janeiro,,,Centro,,,Comercial,Rodrigo Silva,,Comercial à Venda - no Centro,0.0,
+,356.0,2890.0,1600000.0,,268.0,300.0,4.0,Mogi das Cruzes,Salão de festas,,Centro,Suítes,3.0,Casa,Avenida Expedicionário José Barca (Res.Bella Cittá) 43,3.0,Maravilhosa Casa Com Piscina E 3 Suítes no Condomínio Bella Citta,5.0,
+,220.0,800.0,199900.0,Em construção,48.0,47.0,1.0,Osasco,Fitness/Sala de Ginástica,Aceita FGTS,Padroeira,Piso frio,2.0,Apartamento,Rua Achiles Beline,0.0,Apartamentos 2 Dormitórios Minha Casa Minha Vida!,1.0,
+,700.0,263.0,900000.0,2,104.0,104.0,1.0,Rio de Janeiro,Interfone,,Recreio dos Bandeirantes,Cerca,3.0,Apartamento,Rua Clóvis Salgado,1.0,Apartamento à Venda - no Recreio Dos Bandeirantes,2.0,
+,306.0,,190000.0,,,43.0,1.0,São Paulo,,Andares,Bela Vista,Área de serviço,2.0,Apartamento,AVENIDA NOVE DE JULHO 481,,700 m Do Metrô Anhangabaú (9 Minutos A Pé).,,
+,,,309000.0,3,102.0,60.0,2.0,Curitiba,,,Hauer,Suítes,2.0,Apartamento,Rua Waldemar Kost 1397,1.0,"Apartamento Residencial à Venda, Hauer, Curitiba.",1.0,
+47768.0,8465.0,,,,2654.0,2654.0,10.0,São Paulo,Restaurante,,Jardim Tupi,,0.0,Comercial,AV Tower Automotivi,0.0,"Galpão Industrial Próximo A Dutra em Arujá 2.653,76 m&sup2;",12.0,56233.0
+1800.0,2000.0,200.0,,17,500.0,30.0,1.0,São Paulo,Elevador,,Jardim Europa,Suítes,1.0,Apartamento,R JERÔNIMO DA VEIGA 248,1.0,Clarion Faria Lima É Um Excelente Flat Com A Melhor Localização!,1.0,3800.0
+,,,699000.0,1,229.0,229.0,4.0,Rio de Janeiro,Espaço Gourmet,Aceita FGTS,Recreio dos Bandeirantes,Suítes,3.0,Apartamento,Rua Wilfred Penha Borges,1.0,"Cobertura à Venda, 229 m, R$699 Mil, Recreio",2.0,
+3500.0,1051.0,195.0,,,,120.0,2.0,São Paulo,Salão de festas,,Vila Clementino,Armário embutido,3.0,Apartamento,Rua Doutor Diogo de Faria 513,1.0,Apartamento para Aluguel - na Vila Clementino,2.0,4551.0
+17000.0,5110.0,2647.0,3550000.0,,579.0,281.0,5.0,São Paulo,Fitness/Sala de Ginástica,,Vila Madalena,Ar condicionado,3.0,Apartamento,Girassol 50,3.0,Apartamento Impecável na Vila Madalena,4.0,22110.0
+,500.0,260.0,1300000.0,1,360.0,270.0,4.0,Indaiatuba,Área Verde,Ocupado,Residencial Beira da Mata,Suítes,3.0,Casa,"Rua tarumã,",0.0,"Casa à Venda no Condomínio Beira Da Mata em Indaiatuba, Sp",4.0,
+1500.0,500.0,,,,,65.0,1.0,São Paulo,Salão de festas,,Vila das Mercês,Armário embutido,3.0,Apartamento,Rua Marques de Lages 1532,0.0,Apartamento para Aluguel - em Vila Das Mercês,1.0,2000.0
+,743.0,,870000.0,26,,126.0,3.0,Brasília,Elevador,Aceita FGTS,Asa Norte,Suítes,3.0,Apartamento,SQN 105 BLOCO J,1.0,Sqn 105 - Espetacular Apto Nascente - Reforma,0.0,
+1600.0,740.0,69.0,,,,127.0,2.0,São Bernardo do Campo,Salão de festas,,Jardim do Mar,Armário embutido,3.0,Apartamento,Rua Domiciano Rossi 320,1.0,Apartamento para Aluguel - no Jardim Do Mar,1.0,2340.0
+,284.0,70.0,168000.0,,,60.0,1.0,Praia Grande,,,Cidade Ocian,,2.0,Apartamento,Nao Informado,,Apartamento à Venda - na Cidade Ocian,1.0,
+,260.0,100.0,279900.0,2,58.0,58.0,2.0,Guarulhos,Fitness/Sala de Ginástica,Aceita FGTS,Jardim Flor da Montanha,Churrasqueira,2.0,Apartamento,Rua Dona Tecla,1.0,Apartamento no Bosque Maia 58 m 2 Dorms Com 1 Suíte Itbi E Registro Grátis!,1.0,
+,,,130000.0,5,370.0,,,Santana de Parnaíba,Salão de festas,,Suru,Churrasqueira,,Terreno,Rua Sabiá 769,,"Terreno para Venda - Santana De Parnaíba / Sp, Bairro Suru",,
+3329.0,2470.0,200.0,,,57.0,42.0,1.0,São Paulo,,,Moema,Mobiliado,2.0,Apartamento,Avenida Ibirapuera 2927,,"Flat Temporada para Locação, Moema, São Paulo.",1.0,5799.0
+,,,1750000.0,7,360.0,227.0,5.0,Curitiba,Fitness/Sala de Ginástica,,Mossunguê,Suítes,4.0,Apartamento,R. Dep. Heitor Alencar Furtado,3.0,Ed. Belvedere - 4 Quartos 3 Vagas no Ecoville Andar Alto Face Norte,3.0,
+,,,20000.0,,800.0,800.0,0.0,Araçoiaba da Serra,Poço artesiano,,Centro,Pasto,0.0,Rural,Araçoiaba da serra,0.0,Araçoiaba Da Serra R$20.000,0.0,
+,542.0,652.0,370900.0,6,101.0,68.0,2.0,Curitiba,Fitness/Sala de Ginástica,Aceita FGTS,Jardim Botânico,Suítes,2.0,Apartamento,Rua São Januário,1.0,Paseo De Gracia - 2 Dormitórios - Jardim Botânico,1.0,
+,,1184.0,2000000.0,,720.0,183.0,2.0,Florianópolis,WC para empregados,,Praia Brava,Cozinha americana,3.0,Casa,Ennio Demaria Cavallazzi 347,0.0,Casa à Venda - na Praia Brava,2.0,
+,1100.0,412.0,1050000.0,20,,112.0,0.0,São Paulo,Fitness/Sala de Ginástica,,Moema,Suítes,3.0,Apartamento,DOS EUCALIPTOS,1.0,Apt Unico! Pronto para Morar - Lazer - 2vg,2.0,
+1490.0,395.0,,,3,75.0,75.0,1.0,Curitiba,Área Verde,,Batel,Mobiliado,2.0,Apartamento,Rua Brigadeiro Franco 2825,0.0,2 Dorm. - Pequeno Principe,1.0,1885.0
 1700.0,880.0,290.0,,,96.0,96.0,1.0,São Paulo,Fitness/Sala de Ginástica,,Santana,Escritório,3.0,Apartamento,NOVA CANTAREIRA,1.0,Apartamento para Aluguel - em Santana,2.0,2580.0
-1100.0,100.0,40.0,,16,117.0,110.0,1.0,Curitiba,Interfone,Andares,Santa Cândida,Esgoto,3.0,Casa,ESTRADA GUILHERME WEIGERT 930,,Sobrado Santa Candida Locação,1.0,1200.0
-5000.0,,505.0,1100000.0,,300.0,300.0,4.0,São Paulo,,,Jardim Santa Terezinha,,3.0,Comercial,Rua Abreu Sampaio,3.0,Comercial em Santa Teresinha - São Paulo,4.0,
-,,,2500000.0,,9668.0,736.0,,Campina Grande do Sul,Acesso asfaltado,,Centro,Esgoto,0.0,Comercial,Rua Marcos Nicolau Strapassoni 118,,"Barracão Comercial à Venda, Bonança Sítios De Recreio, Campina Grande Do Sul.",,
-,,,500000.0,,31000.0,31000.0,4.0,Quatro Barras,,,Palmitalzinho,Churrasqueira,2.0,Rural,Estrada Velha Graciosa 0,,"Chácara Residencial à Venda, Campininha, Quatro Barras.",7.0,
-,810.0,320.0,980000.0,9,110.0,110.0,3.0,São Paulo,Forno de pizza,,Tatuapé,Suítes,4.0,Apartamento,R PROFESSOR PEDREIRA DE FREITAS,1.0,Apartamento Sensacional no Tatuapé,3.0,
-,710.0,,550000.0,8,,60.0,2.0,Brasília,Fitness/Sala de Ginástica,Aceita FGTS,Centro de Atividades,Suítes,2.0,Apartamento,CA 5 (Centro de Atividades),1.0,"Ca 05 - Ed. San Raphael! De Canto, Reformado!",1.0,
-,,,300150.0,4,51.0,34.0,1.0,Curitiba,Fitness/Sala de Ginástica,,Vila Izabel,Lavanderia,1.0,Apartamento,Republica Argentina 1037,0.0,Studio no Água Verde.,0.0,
-,,,140000.0,1,60.0,60.0,2.0,Queimados,,Aceita FGTS,Vila do Tinguá,,2.0,Casa,rua divino alcides,0.0,Casa Duplex Com 2 Quartos Fanchen Queimados Rj,1.0,
-1380.0,320.0,102.0,,15,71.0,50.0,1.0,Curitiba,Acesso asfaltado,,Batel,Esgoto,0.0,Comercial,Avenida Sete de Setembro,,"Conjunto Comercial para Locação, Batel, Curitiba.",,1700.0
-,600.0,250.0,450000.0,,532.0,532.0,0.0,Barueri,,,Aldeia da Serra,,,Terreno,Procion,,Terreno Plano Aldeia Da Serra Morada Das Estrelas,0.0,
-2500.0,600.0,900.0,265000.0,3,27.0,27.0,1.0,Brasília,Fitness/Sala de Ginástica,Andares,Asa Norte,Suítes,1.0,Apartamento,SHN QUADRA 1,1.0,Teste Antes: Fusion E Vision 100% Mobiliados!,1.0,3100.0
-,750.0,,439000.0,1,70.0,70.0,1.0,Rio de Janeiro,Fitness/Sala de Ginástica,Aceita FGTS,Recreio dos Bandeirantes,Suítes,2.0,Apartamento,Rua Nilton Santos 1.850,1.0,Apartamento 2 Quartos Recreio - Pontal Oceânico - Maui - Calçada,1.0,
-,900.0,200.0,689999.0,6,122.0,122.0,3.0,São Paulo,Fitness/Sala de Ginástica,Aceita FGTS,Rio Pequeno,Suítes,3.0,Apartamento,Avenida Escola Politécnica,3.0,- Collinas Parque Dos Príncipes! Oportunidade!,2.0,
-,,,290000.0,,200.0,130.0,2.0,São José dos Pinhais,Sistema de alarme,,Afonso Pena,Copa,3.0,Casa,Rua Olívio Setim 7,1.0,Casa em Sjpinhais Com Fácil Acesso para Ctba,4.0,
-,,,796000.0,Breve lançamento,2041.0,2041.0,,Campo Largo,,,Vila Ferrari II,,0.0,Comercial,AGOSTINHO MOCELIN 700,,Comercial à Venda - na Vila Ferrari II,,
-,,,390000.0,,925.0,200.0,3.0,,Poço artesiano,,,Cerca,2.0,Rural,,1.0,Belissima Chacara em Socorro 925 m&sup2;,5.0,
-,,,249724.0,,54.0,41.0,1.0,Curitiba,Salão de festas,,Alto da XV,Churrasqueira,2.0,Apartamento,Rua Schiller 352,,Apartamento à Venda em Curitiba.,,
-,,,100000.0,,,,1.0,,,,,,2.0,Rural,,,Rural à Venda - nas Chácaras Reunidas Igarapés,1.0,
-,135.0,,180000.0,,85.0,85.0,2.0,,,,,,2.0,Apartamento,,1.0,Apartamento à Venda - no Bom Jesus,1.0,
-,,150.0,630000.0,,144.0,177.0,3.0,São Caetano do Sul,,,Cerâmica,Quintal,3.0,Casa,Geovanina Borges Duarte,1.0,Casa à Venda - em Cerâmica,2.0,
-,450.0,100.0,509500.0,Breve lançamento,58.0,58.0,2.0,São Paulo,Espaço Gourmet,,Várzea da Barra Funda,Aceita Financiamento,2.0,Apartamento,AVENIDA MARQUÊS DE SÃO VICENTE 341,1.0,Apartamento - Várzea Da Barra Funda,1.0,
-,,1400.0,650000.0,5,248.0,251.0,2.0,Pontal do Paraná,,Aceita FGTS,Pontal do Sul,Suítes,3.0,Casa,"Av. Dep. Aníbal Khury, 19809",2.0,Sobrado Lindo De Frente para O Mar,2.0,
-6000.0,,786.0,,,,300.0,5.0,São Paulo,,,Campo Belo,Armário embutido,4.0,Casa,Rua Bernardino de Campos 1148,2.0,Casa para Aluguel - no Campo Belo,0.0,
-,,,340000.0,2,67.0,67.0,1.0,Porto Belo,,,Pereque,Suítes,3.0,Casa,RUA MARIO WALENDOWSKY,3.0,Sobrado Com 03 Suítes em Porto Belo,4.0,
-,,,1300000.0,Breve lançamento,280.0,144.0,5.0,Balneário Camboriú,Espaço Gourmet,Andares,Centro,Suítes,4.0,Apartamento,RUA 3700 415,4.0,Oportunidade Alto Padrão,3.0,
-,150.0,578.0,289000.0,Breve lançamento,107.0,81.0,1.0,Pinhais,Interfone,Aceita FGTS,Centro,Suítes,3.0,Apartamento,Rua Vinte e Cinco de Agosto,1.0,"Centro De Pinhais: Suíte, Sacada C/ Churrasqueira E Elevador",1.0,
-,470.0,1200.0,359909.0,3,63.0,87.0,2.0,Curitiba,Espaço Gourmet,Aceita FGTS,Portão,Cozinha Gourmet,2.0,Apartamento,Avenida República Argentina,1.0,Edifício Next Home,2.0,
-,460.0,175.0,240000.0,,,60.0,1.0,Campinas,,,Jardim García,Churrasqueira,2.0,Apartamento,Rua Castelnuovo 135,,"Oportunidade De Verdade! Apartamento 2 Dormitórios, Jardim García, Campinas - Ap0356.",1.0,
-,1440.0,500.0,1829000.0,,,138.0,,São Paulo,Espaço Gourmet,,Brooklin,Suítes,3.0,Apartamento,AV Portugal 1048,3.0,"Apartamento à Venda Com 138 m&sup2; - Brooklin, São Paulo.",2.0,
-1450.0,345.0,862.0,,,,40.0,1.0,Brasília,,,Asa Norte,,1.0,Apartamento,Quadra SQN 216 Bloco A 0,,Apartamento De 01 Quarto na Asa Norte.,,1795.0
-,,,6350000.0,,3500.0,3500.0,,Brasília,,,Lago Sul,,,Terreno,Quadra SHIS QL 26 26,,Shis Ql 26 Lago Sul,,
-,,,850000.0,13,276.0,173.0,3.0,Cotia,,,Granja Viana,Suítes,3.0,Casa,Estrada dos Estudantes 100,1.0,"Quinta Da Vila Real, Granja Viana, cotia.(Portal)",3.0,
-,400.0,1000.0,420000.0,2,90.0,65.0,2.0,Curitiba,Espaço Gourmet,,Bigorrilho,,2.0,Apartamento,Rua euclides da cunha,1.0,Apartamento Eq Champagnat 2 Dormitórios 1 Suite 1 Vaga,1.0,
-,540.0,,310000.0,,52.0,52.0,1.0,São Paulo,Sauna,,Vila Maria Alta,Aceita Financiamento,2.0,Apartamento,R ORINDIÚVA 345,0.0,Excelente Apartamento na Vila Maria Alta - 2 Dorm. E 1 Vaga,1.0,
-,1800.0,31940.0,5500000.0,5,912.0,809.0,9.0,Rio de Janeiro,Espaço Gourmet,,Barra da Tijuca,Suítes,5.0,Casa,Avenida das Americas,5.0,Casa no Porto Dos Cabritos. 5 Suites. Conforto E Praticidade. Barra Da Tijuca.,8.0,
-,790.0,1570.0,1590000.0,,183.0,140.0,2.0,Balneário Camboriú,,,Pioneiros,Suítes,3.0,Apartamento,Rua Miguel Matte 252,1.0,"Apartamento à Venda, Edifício Torre Di Lyon, Pioneiros, Balneário Camboriú.",3.0,
-,742.0,224.0,900000.0,57,120.0,120.0,2.0,Rio de Janeiro,Interfone,,Flamengo,Suítes,3.0,Apartamento,Rua Senador Vergueiro,1.0,Apartamento à Venda - em Flamengo,0.0,
-,,,385000.0,4,81.0,81.0,3.0,Águas Claras,Elevador,Aceita FGTS,Aguas Norte,Gás encanado,3.0,Apartamento,ALAMEDA DOS EUCALIPTOS QD 107 11,1.0,Apto 3 Qtos Suite Wc Empregada 81 m Novo Use Fgts Ed. Das Américas 107 Norte,1.0,
-,,,420000.0,1,,65.0,2.0,Curitiba,Espaço Gourmet,,Bigorrilho,,2.0,Apartamento,"Rua Euclides da Cunha, 1530",1.0,Apartamento Novo | 2 Dorms | 1 Suíte | 1 Vaga | Churrasqueira,1.0,
-,1200.0,2500.0,2111000.0,1,421.0,244.0,5.0,Curitiba,Espaço Gourmet,,Campina do Siqueira,,4.0,Apartamento,"Rua. Prof. Pedro Viriato Parigot de Souza,",3.0,Apartamento Blue Granet Ecovile 4 Dormitórios 3 Suítes 4 Vagas,4.0,
-2500.0,,,420000.0,,70.0,57.0,2.0,Santos,,,Ponta da Praia,Mobiliado,1.0,Apartamento,Rua Isidoro José Ribeiro de Campos 48,1.0,"Apartamento Residencial para Venda E Locação, Ponta Da Praia, Santos.",1.0,
-,1.0,1.0,166000.0,1,80.0,36.0,1.0,Praia Grande,,,Campo da Aviação,,1.0,Apartamento,RUA JOAO RAMALHO 988,0.0,Apartamento 1 Dormitório na Cidade De Praia Grande!,1.0,
-,500.0,30.0,490000.0,7,111.0,65.0,2.0,São Paulo,Fitness/Sala de Ginástica,,Barra Funda,Varanda,3.0,Apartamento,SANTA MARINA,1.0,Apartamento Barra Funda. Simpatico!,1.0,
-3170.0,700.0,130.0,,5,38.0,38.0,1.0,São Paulo,Salão de festas,,Paraíso,Mobiliado,1.0,Apartamento,R Sampaio Viana 180,1.0,Flat Excelente para Locação no Paraíso!,1.0,3870.0
-,299.0,,140000.0,38,44.0,44.0,1.0,Campinas,,,Centro,,1.0,Apartamento,Sob Consulta 360,0.0,Apartamento à Venda em Centro,0.0,
-,,,850000.0,9,300.0,195.0,4.0,Indaiatuba,Interfone,Posição do Sol,Jardim Esplanada,Suítes,4.0,Casa,Rua Prefeito Luiz Teixeira de Camargo Júnior - Jardim Esplanada,1.0,Casa Térrea A Venda Jardim Esplanda Indaiatuba Sp,4.0,
-,,,430000.0,Breve lançamento,497.0,497.0,0.0,Santana de Parnaíba,Fitness/Sala de Ginástica,,Centro de Apoio II,,0.0,Terreno,06539,0.0,Terreno Plano no Condomínio Burle Marx Alphaville,0.0,
-,,,584000.0,1,109.0,109.0,3.0,Rio de Janeiro,Fitness/Sala de Ginástica,,Pechincha,Suítes,4.0,Apartamento,Rua Retiro dos Artistas,3.0,"Vernissage, Apartamento à Venda Com 4 Quartos, Rua Retiro Dos Artistas",1.0,
-,1200.0,195.0,905000.0,14,,114.0,4.0,São Paulo,Fitness/Sala de Ginástica,,Vila Leopoldina,Suítes,0.0,Apartamento,Rua nanuque 488,1.0,Apartamento na Leopoldina 3 Dormitórios Varanda E Dependência De Empregada,2.0,
-,300.0,,240000.0,30,110.0,67.0,1.0,São Paulo,,,Vila Pirajussara,,2.0,Apartamento,Rua Martinho Vaz de Barros 388,,Apartamento Padrão para Venda em Vila Pirajussara São Paulo - Sp,1.0,
-2800.0,1000.0,184.0,,,,110.0,2.0,São Paulo,Salão de festas,,Butantã,Armário embutido,3.0,Apartamento,Rua Sousa Reis 120,1.0,Apartamento para Aluguel - em Butantã,2.0,3800.0
-,,,2500000.0,,284.0,,,Florianópolis,Fitness/Sala de Ginástica,,Santinho,Mobiliado,3.0,Apartamento,Estrada Vereador Onildo Lemos 2345,3.0,Apartamento à Venda - em Santinho,3.0,
-,300.0,,157760.0,1,464.0,464.0,0.0,Salto,Espaço Gourmet,,Jardim Buru,,0.0,Terreno,Av. José Maria Marquês de Oliveira 1282-1292,0.0,"Lote/terreno no Condomínio Portal Dos Bandeirantes, Salto/sp A Partir De 464 m&sup2;",0.0,
-,2200.0,,2300000.0,2,,308.0,3.0,Curitiba,Espaço Gourmet,Andares,Água Verde,Suítes,4.0,Apartamento,"Av Iguaçu, 2195",4.0,Duplex 308 m&sup2; Privativos - 4 Suites - 4 Vagas - Água Verde,4.0,
-3500.0,,,,28,300.0,300.0,5.0,São Paulo,,,Morumbi,Churrasqueira,3.0,Casa,Rua Frei Bonifácio Dux,3.0,"Sobrado para Locação, 3 Suítes, 3 Salas, Lareira, 4 Vagas De Garagem - Morumbi, Sp",0.0,
-,,,1200000.0,10,1.0,168.0,3.0,São Paulo,Acesso asfaltado,Aceita FGTS,Vila São José (Ipiranga),Suítes,3.0,Casa,Rua Marcondes de Andrade,1.0,Sobrado 168 M² para Venda – Próximo Ao Museu Do Ipiranga.,2.0,
-,700.0,59.0,595000.0,33,120.0,79.0,2.0,São Paulo,Piscina,,Perdizes,Piso frio,2.0,Apartamento,R DIANA,0.0,"Apartamento em Perdizes, Reformado, Pronto para Morar!",1.0,
-,3000.0,7300.0,4350001.0,38,150.0,150.0,2.0,Rio de Janeiro,Elevador,,Leblon,Suítes,4.0,Apartamento,Rua Almirante Pereira Guimarães,1.0,Quadra Da Praia no Leblon De 4 Quartos Com 2 Vagas!,2.0,
-,429.0,133.0,379000.0,2,70.0,70.0,2.0,Jundiaí,Fitness/Sala de Ginástica,Aceita FGTS,Jardim Flórida,Varanda Gourmet,2.0,Apartamento,R Hilda Del Nero Bisquolo,1.0,Naturale - Apartamento De 70 m&sup2; Pra Venda,1.0,
-,870.0,,990000.0,,216.0,,,Porto Alegre,Aquecimento central,,Bela Vista,Churrasqueira,2.0,Apartamento,Pedro Chaves Barcelos 715,0.0,Apartamento à Venda - na Bela Vista,2.0,
-,2815.0,840.0,4900000.0,,318.0,201.0,4.0,São Paulo,,,Itaim Bibi,Suítes,3.0,Apartamento,Avenida Horácio Lafer 120,3.0,Apartamento Residencial à Venda Hli Itaim Bibi,3.0,
-,1100.0,2650.0,3950000.0,,2000.0,2000.0,6.0,Cotia,Portaria 24 horas,,Granja Viana,Suítes,3.0,Casa,rua joão de barro 664,3.0,Casa à Venda - na Granja Viana,8.0,
-,,,1890000.0,,1200.0,300.0,6.0,Brasília,Portaria 24 horas,,Lago Sul,Suítes,4.0,Casa,QD SHIS QI 28,4.0,Shis Qi 28 - Casa Inteligente - Escritura E Financiamento!,6.0,
-,752.0,515.0,750000.0,,180.0,164.0,3.0,Praia Grande,,,Campo da Aviação,Suítes,3.0,Apartamento,Rua Ophélia Caccetari Reis 54,3.0,"Apartamento em Praia Grande, Vista Mar, 03 Dormitórios Sendo Suítes, Sala Com Varanda Gourmet. Lazer",1.0,
-,370.0,2000.0,949000.0,,104.0,80.0,1.0,Gramado,Fitness/Sala de Ginástica,,Centro,Churrasqueira,2.0,Apartamento,BELA VISTA - BLOCO A,1.0,Apartamento à Venda - no Centro,1.0,
-6500.0,950.0,17.0,,,,180.0,3.0,São Paulo,Portaria 24 horas,,Santa Cecília,Ar condicionado,2.0,Apartamento,Rua Dona Veridiana 220,1.0,Apartamento para Aluguel - em Santa Cecília,1.0,7450.0
-7600.0,1600.0,458.0,,43,194.0,200.0,3.0,São Paulo,Elevador,,Bela Vista,Suítes,4.0,Apartamento,"Alameda Joaquim Eugênio de Lima, 115",1.0,90884 Ótimo Apartamento para Locação!,1.0,9200.0
-,3700.0,1618.0,2400000.0,,,252.0,5.0,São Paulo,,,Tatuapé,Suítes,3.0,Apartamento,Rua Apucarana 1301,3.0,"Apartamento Residencial à Venda, Tatuapé, São Paulo.",4.0,
-,,,4500000.0,,624.0,624.0,,Curitiba,Acesso asfaltado,,Centro,Esgoto,0.0,Terreno,Rua Doutor Faivre 609,,"Terreno Residencial à Venda, Centro, Curitiba - Te0086.",,
-,640.0,42.0,370000.0,15,40000.0,70.0,2.0,São Paulo,Área Verde,,Jardim Marajoara,Piso frio,3.0,Apartamento,Avenida Sargento Geraldo Santana,1.0,Apartamento Com Suíte para Venda em Jardim Marajoara,2.0,
-,80.0,615.0,530000.0,12,670.0,300.0,2.0,Sobradinho,Piscina,Aceita FGTS,Sobradinho,Suítes,4.0,Casa,QUADRA 09 Condomínio Serra Azul,1.0,"Qd 09, Casa C/ 4 Quartos, Suíte, Área De Lazer, Cond. Serra Azul - Sobradinho",2.0,
-,,,250000.0,,138.0,70.0,3.0,São José dos Pinhais,,,Afonso Pena,,3.0,Casa,Rua João Maria Martins Cordeiro 696,1.0,Casa 03 Dormitórios Sendo 01 Suíte Afonso Pena,2.0,
-,,,400000.0,40,100.0,91.0,2.0,São Paulo,Acesso asfaltado,Aceita FGTS,Americanópolis,Suítes,3.0,Casa,R CIDADE DE SANTOS,1.0,"“excelente – Sobrado – Dois Dorm. Com Edícula, Bairro Americanópolis”",2.0,
-,580.0,,267000.0,32,73.0,53.0,1.0,São Paulo,Salão de festas,,Jabaquara,Aceita Financiamento,2.0,Apartamento,Rua Taquacetuba 301,,"900 m Do Metrô Jabaquara, Fàcil Acesso Ao Aeroporto De Congonhas, São Paulo - Ap2368.",1.0,
-,441.0,1336.0,365700.0,,65.0,65.0,2.0,Guarulhos,,,Jardim Flor da Montanha,Churrasqueira,3.0,Apartamento,Rua Dona Tecla 556,1.0,"Apartamento Residencial à Venda, Jardim Flor Da Montanha, Guarulhos.",2.0,
-,,,824400.0,,137.0,137.0,4.0,Navegantes,Fitness/Sala de Ginástica,,Gravatá,Suítes,3.0,Apartamento,Avenida Prefeito Cirino Adolfo Cabral,3.0,Apartamento à Venda - em Gravatá,2.0,
-950.0,360.0,48.0,,18,80.0,80.0,1.0,Curitiba,Salão de festas,,Cajuru,Churrasqueira,3.0,Apartamento,Rua Salvador 718,1.0,"Locação Residencial Portal Da Serra, Cajuru, Curitiba.",1.0,1310.0
-,702.0,450.0,641500.0,,68.0,68.0,2.0,São Paulo,,,Vila Leopoldina,Elevador,2.0,Apartamento,Avenida Imperatriz Leopoldina 1845,,"Apartamento Residencial à Venda, Vila Leopoldina, São Paulo.",1.0,
-,590.0,1150.0,1290000.0,Breve lançamento,,185.0,5.0,Itapema,Espaço Gourmet,,Centro,Suítes,4.0,Apartamento,Rua 133,4.0,Apartamento em Itapema Com Vista Panorâmica De Toda Praia Com Òtimo Acabamento.,3.0,
-1150.0,820.0,125.0,,,,50.0,1.0,Campinas,Portaria 24 horas,,Centro,Ar condicionado,1.0,Apartamento,Rua Onze de Agosto 411,1.0,Apartamento para Aluguel - no Centro,1.0,1970.0
-,868.0,134.0,694950.0,4,,92.0,3.0,Nova Lima,,,Vila da Serra,Churrasqueira,3.0,Apartamento,Rua Vereda 50,1.0,"Apartamento Residencial à Venda, Vila Da Serra, Nova Lima.",2.0,
-,440.0,,945000.0,,225.0,140.0,2.0,Balneário Camboriú,,,Centro,Suítes,3.0,Apartamento,Rua 700 404,3.0,Excelente Apartamento 03 Suítes - 02 Vagas De Garagem,2.0,
-,720.0,,1350000.0,8,180.0,180.0,3.0,,Portão Eletrônico,,,Suítes,5.0,Apartamento,,1.0,Apartamento à Venda - em Dona Clara,6.0,
-,,250.0,680000.0,,3000.0,3000.0,1.0,,,,,Churrasqueira,3.0,Rural,,1.0,"Chácara Residencial à Venda, Remanso, Cotia.",1.0,
-,680.0,,900000.0,,,85.0,3.0,São Paulo,,,Vila Leopoldina,Churrasqueira,3.0,Apartamento,Rua Carlos Weber 890,1.0,"Apartamento Residencial à Venda, Vila Leopoldina, São Paulo.",2.0,
-,,,695000.0,,161.0,89.0,2.0,Curitiba,Espaço Gourmet,,Alto da Glória,Churrasqueira,2.0,Apartamento,Rua Carlos Eduardo Leão 99,1.0,Apartamento à Venda - no Alto Da Glória,1.0,
-,,,430000.0,10,75.0,75.0,2.0,São Paulo,Área Verde,,Piqueri,,3.0,Apartamento,Rua Antônio de Proença,1.0,"Apartamento à Venda Com 3 Quartos, 75 m&sup2;",1.0,
-,,,2900000.0,,658.0,497.0,5.0,Porto Alegre,,,Mont Serrat,,3.0,Apartamento,Rua Pedro Ivo,,Apartamento à Venda - em Mont Serrat,3.0,
-,,,259900.0,,84.0,76.0,2.0,Curitiba,Acesso asfaltado,,Barreirinha,Esgoto,3.0,Casa,Rua René Descartes 187,1.0,"Sobrado à Venda, Barreirinha, Curitiba.",1.0,
-,1200.0,17000.0,5950000.0,1,600.0,750.0,6.0,Rio de Janeiro,,Aceita FGTS,Barra da Tijuca,Piso frio,5.0,Casa,Raquel de Queiroz,5.0,Belissima Casa Com 750 m&sup2; De 5 Suites no Condominio Del Lago,4.0,
-,727.0,1369.0,700000.0,27,225.0,138.0,3.0,Curitiba,De esquina,Aceita FGTS,Champagnat,Suítes,3.0,Apartamento,RUA BRUNO FILGUEIRA   2100,1.0,Amplo E Ensolarado - Andar Alto - 2 Vagas De Garagem,2.0,
-10000.0,,834.0,,,,462.0,2.0,São Paulo,,,Vila Madalena,Armário embutido,7.0,Casa,Rua Guilherme Moura 241,1.0,Casa para Aluguel - na Vila Madalena,3.0,
-,650.0,630.0,399000.0,2,70.0,70.0,2.0,Rio de Janeiro,Espaço Gourmet,Aceita FGTS,Cachambi,Suítes,2.0,Apartamento,Rua Silva Mourão,1.0,Apartamento 2 Qts Suíte Varanda Com Churrasqueira Vaga Junto Ao Norte Shopping,1.0,
-1800.0,1650.0,200.0,650000.0,30,140.0,140.0,3.0,São Paulo,Fitness/Sala de Ginástica,Aceita FGTS,Butantã,Suítes,4.0,Apartamento,"R NELSON FRANK , 50",1.0,Cob. Duplex - Butantã - 140 m&sup2; - 1 Suite - 2 Vagas,2.0,3450.0
-,,,600000.0,28,132.0,130.0,3.0,,,,,Aceita Financiamento,0.0,Comercial,,,"Loja Comercial à Venda, Vila Carrão, São Paulo.",,
-,,663.0,1800000.0,,571.0,600.0,7.0,São Paulo,Acesso asfaltado,,Interlagos,Suítes,4.0,Casa,Rua Paschoal Leonardi 55,3.0,"Casa Residencial à Venda, Interlagos, São Paulo - Ca2159.",5.0,
-,,,1950000.0,10,800.0,500.0,6.0,Brasília,,,Setor Habitacional Jardim Botânico,,4.0,Casa,SHJB III,3.0,Casa Nova De 2 Pavimentos Com 4 Quartos - Jardim Botânico/df,3.0,
-,570.0,1.0,500000.0,4,71.0,71.0,2.0,São Paulo,Fitness/Sala de Ginástica,,Belém,,3.0,Apartamento,Conselheiro Cotegipe 219,1.0,Apto no Belém - E X C E L E N T E L O C A L I Z A Ç Ã O,1.0,
-,,,289000.0,,95.0,95.0,3.0,Curitiba,Acesso asfaltado,,Alto Boqueirão,Suítes,3.0,Casa,Rua Expedicionário Bruno Estrifica 0,1.0,"Sobrado Residencial à Venda, Alto Boqueirão, Curitiba - So0417.",1.0,
-,458.0,,595000.0,1,817.0,250.0,3.0,Brasília,Área Verde,Ocupado,Setor Habitacional Jardim Botânico,Jardim,3.0,Casa,Condomínio Verde,3.0,Casa Térrea Nova 3 Suítes Condomínio Verde - Jardim Botânico/brasília - Df,3.0,
-,180.0,,149900.0,Breve lançamento,41.0,41.0,1.0,São Paulo,Interfone,Aceita FGTS,Jardim Germânia,Piso frio,2.0,Apartamento,"Rua Doutor José Serra Ribeiro, 300",0.0,Apartamento no Campo Limpo Ao Lado Do Metrô,1.0,
-2679.0,521.0,28.0,,3,87.0,87.0,2.0,Barueri,Fitness/Sala de Ginástica,,Jardim Tupanci,Suítes,2.0,Apartamento,"werner goldberg, 157",1.0,"Apto 87 m&sup2;, Sala Ampliada. Lazer Completo! Localização Privilegiada em Barueri",2.0,3200.0
-,250.0,400.0,132000.0,,53.0,53.0,1.0,Florianópolis,Salão de festas,,Jardim Atlântico,Ar condicionado,2.0,Apartamento,"Jornalista Orion Augusto Plat, 247",0.0,"2 Dorm. 1 Vaga, no Jardim Atlantico. Melhor Preç",1.0,
-7500.0,2500.0,957.0,,13,,180.0,,São Paulo,Vestiário,,Vila Mariana,Varanda Gourmet,4.0,Apartamento,R Professora Carolina Ribeiro 30,2.0,"Apartamento para Locação Com 180 m&sup2;, Vila Mariana Sp;",3.0,10000.0
+,476.0,1.0,457000.0,33,,58.0,2.0,São Paulo,Fitness/Sala de Ginástica,,Praça da Árvore,Varanda,2.0,Apartamento,Bosque da saude 1,0.0,Apartamento à Venda - em Praça Da Árvore,1.0,
+,2500.0,8543.0,2750000.0,23,534.0,393.0,5.0,Curitiba,Fitness/Sala de Ginástica,,Cabral,Suítes,4.0,Apartamento,Manoel Eufrasio 235,2.0,"Maravilhoso, Andar Alto! J8 Imóveis",4.0,
+,2850.0,592.0,2620000.0,,,245.0,3.0,Rio de Janeiro,,Andares,Barra da Tijuca,,4.0,Apartamento,AVENIDA DAS AMÉRICAS 6250,1.0,Apartamento - Barra Da Tijuca,3.0,
+,220.0,,208900.0,1,42.0,42.0,1.0,São Bernardo do Campo,Fitness/Sala de Ginástica,Aceita FGTS,Jurubatuba,Suítes,1.0,Apartamento,RUA DR FELICIO LAURITO,0.0,Start Club Sao Bernardo 208 Mil Pronto - Use Seu Fgts na Entrada,1.0,
+,513.0,1208.0,497000.0,1,141.0,92.0,1.0,Florianópolis,,,Capoeiras,Churrasqueira,3.0,Apartamento,Professor Clementino de Brito 465,1.0,Apartamento à Venda - em Capoeiras,2.0,
+,500.0,,169000.0,,800.0,800.0,,Itupeva,Acesso asfaltado,,Centro,Aceita Financiamento,0.0,Terreno,Rodovia Mário Tonoli 8,,"Terreno Residencial à Venda, Condomínio Vida Real, Itupeva.",,
+800.0,270.0,66.0,,1,27.0,27.0,1.0,Brasília,Elevador,Posição do Sol,Sudoeste,Geladeira,1.0,Apartamento,eqrsw 2/3,0.0,Eqrsw 02/03 Ed Maurício - Kit Dividida Semi Mobiliada - Sudoeste,0.0,1070.0
+,,,200000.0,Breve lançamento,,35.0,1.0,Praia Grande,Espaço Gourmet,Andares,Vila Mirim,Varanda Gourmet,1.0,Apartamento,av vinte e tres de maio,0.0,1 Dormitório Com 25 Mil De Entrada,1.0,
+,,412.0,1400000.0,48,400.0,152.0,4.0,São Paulo,Acesso asfaltado,,Jabaquara,Esgoto,5.0,Casa,Rua Jaguarão 227,1.0,"Sobrado Residencial à Venda, Jabaquara, São Paulo.",4.0,
+5000.0,1100.0,262.0,,,263.0,,,Curitiba,Fitness/Sala de Ginástica,,Ahú,Suítes,4.0,Apartamento,Anita Garibaldi 491,2.0,Muito Espaço E Conforto para A Sua Família,2.0,6100.0
+7900.0,,,,,175.0,175.0,4.0,,Elevador,Andares,,Piso elevado,,Comercial,,,"Locação De Sala Comercial Com 175 m&sup2;, Próximo A Estação São Judas Do Metrô. Cod. Cooc121",4.0,7900.0
+,300.0,400.0,255900.0,Em construção,6600.0,50.0,1.0,São Paulo,Fitness/Sala de Ginástica,Aceita FGTS,Jardim Caboré,Suítes,2.0,Apartamento,rua doutor luiz migliano,0.0,Apartamento 2 Dormitórios - 1 Vaga - Zona Sudoeste,1.0,
+1500.0,950.0,128.0,,,49.0,49.0,,,,,,,0.0,Comercial,,,"Praça Capital, Sala/loja, Acesso Direto A Rua Interna Do Condomínio, 49,01 Com 01 Wc, Piso Porcelana",,2450.0
+,550.0,120.0,790000.0,,,110.0,1.0,Jundiaí,,,Engordadouro,Suítes,3.0,Apartamento,Avenida Professor Pedro Clarismundo Fornari 1080,2.0,Apartamento Impecável no Engordadouro,3.0,
+,,,500000.0,1,225.0,150.0,3.0,Florianópolis,Acesso asfaltado,Aceita FGTS,Ingleses do Rio Vermelho,Suítes,3.0,Casa,Rua Fernando Bauther da Silva,1.0,Casa 3 Dormitórios/1 Suíte Com Escritura Pública - Ingleses Do Rio Vermelho,2.0,
+,1300.0,560.0,2350000.0,9,145.0,145.0,14.0,São Paulo,Espaço Gourmet,,Brooklin,Suítes,3.0,Apartamento,R Guararapes 2073,3.0,"Apto 3 Suítes, 2 Vagas, 145², Ar Condicionado E Janelas Anti Ruído",2.0,
+,390.0,,250000.0,,,70.0,2.0,São José dos Campos,,,Jardim São Dimas,Varanda,2.0,Apartamento,Sob Consulta,1.0,"Apartamento para Venda - São José Dos Campos / Sp, Bairro São Dimas",1.0,
+1845.0,1100.0,100.0,,,,35.0,1.0,São Paulo,Interfone,,Moema,Mobiliado,1.0,Apartamento,Avenida Ibirapuera 2534,,Flat Melia Ibirapuera para Locação - Ref797,1.0,2945.0
+,250.0,1.0,178000.0,,45.0,35.0,1.0,São Paulo,Fitness/Sala de Ginástica,,Vila Prudente,,1.0,Apartamento,Doutor Francisco Mesquita 1139,0.0,Condomínio Novo Fácil Acesso A Av Paulista,0.0,
+,,,270000.0,20,161.0,88.0,1.0,Curitiba,Acesso asfaltado,,Xaxim,Churrasqueira,3.0,Casa,Rua Pedro Wieler 666,1.0,"Casa Residencial à Venda, Xaxim, Curitiba - Ca0061.",2.0,
+3800.0,1281.0,184.0,900000.0,,175.0,,,Curitiba,Salão de festas,,Água Verde,Suítes,3.0,Apartamento,Carneiro Lobo 614,1.0,Apartamento Espaçoso Próximo à Praça Do Batel,2.0,5081.0
+,,,360000.0,,900.0,900.0,,Londrina,Acesso asfaltado,,Jardim Maria Celina,Esgoto,0.0,Terreno,Avenida Giocondo Maturi 589,,"Terreno Residencial à Venda, Jardim Maria Celina, Londrina - Te0694.",,
+,320.0,,228000.0,2,,53.0,2.0,Guarulhos,Fitness/Sala de Ginástica,Aceita FGTS,Parque Cecap,,2.0,Apartamento,Av Monteiro Lobato,1.0,Magnum - Cecap - Apto De 53 m&sup2; - 2 Dorms - R$228 Mil - Aeroporto Internacional - Pronto,1.0,
+,,2265.0,2800000.0,,1183.0,1183.0,,Guarujá,Acesso asfaltado,,Praia da Enseada,Frente para o mar,0.0,Terreno,Avenida Miguel Stéfano 4,,"Terreno Residencial à Venda, Praia Da Enseada, Guarujá.",,
+4500.0,1.0,452.0,,,420.0,420.0,3.0,São Paulo,,,Santana,,,Comercial,DUARTE DE AZEVEDO,,Comercial para Aluguel - em Santana,3.0,4501.0
+,,1000.0,980000.0,,1200.0,250.0,4.0,,,,,Suítes,3.0,Rural,,2.0,"Chácara Residencial à Venda, Vale Verde, Valinhos.",4.0,
+1200.0,580.0,85.0,,34,54.0,52.0,1.0,São Paulo,,,Jaguaré,Churrasqueira,2.0,Apartamento,Rua Cônego José Marinho 76,,"Apartamento Residencial para Locação, Jaguaré, São Paulo - Ap6105.",1.0,1780.0
+2500.0,70.0,56.0,,,34.0,,1.0,Valinhos,,,Centro,Piso frio,0.0,Comercial,Sob Consulta 450,0.0,Salão para Aluguel em Centro,0.0,2570.0
+,622.0,115.0,1790000.0,,600.0,286.0,5.0,Vinhedo,Quadra poliesportiva,,Condomínio Terras de Vinhedo,Suítes,3.0,Casa,Sob Consulta 500,3.0,Casa à Venda em Condomínio Terras De Vinhedo,4.0,
+2850.0,614.0,120.0,,26,61.0,39.0,1.0,São Paulo,Salão de festas,,Vila Olímpia,Piscina,1.0,Apartamento,Rua Santa Justina 336,0.0,Mobiliado - Prontinho para Morar!,1.0,3464.0
+,260.0,20.0,167990.0,2,30.0,30.0,1.0,São Paulo,Fitness/Sala de Ginástica,Aceita FGTS,Brás,Churrasqueira,1.0,Apartamento,Avenida Rangel Pestana,0.0,Oportunidade! Apartamentos A 3 Minutos Do Metrô na Região Central - Perto De Tudo!,0.0,
+,,,499000.0,Em construção,119.0,119.0,3.0,Curitiba,,,Boqueirão,,3.0,Casa,Rua Padre Dehon,1.0,Residencial Sophia Valentina,2.0,
+,2000.0,1500.0,5700000.0,9,232.0,232.0,4.0,São Paulo,Espaço Gourmet,,Vila Nova Conceição,Suítes,3.0,Apartamento,R AFONSO BRAZ,3.0,Walk Vila Nova: Design De Interiores Impecável,3.0,
+4000.0,,,330000.0,,50.0,50.0,0.0,,,,,,0.0,Comercial,,0.0,Comercial - Jardim Belo Horizonte,30.0,4000.0
+,790.0,900.0,927000.0,17,172.0,111.0,3.0,Porto Alegre,Fitness/Sala de Ginástica,,Menino Deus,Churrasqueira,3.0,Apartamento,VISCONDE DO HERVAL,1.0,Apartamento à Venda - em Menino Deus,2.0,
+,750.0,80.0,495000.0,3,84.0,69.0,2.0,São Paulo,Salão de festas,,Jardim Prudência,Aceita Financiamento,3.0,Apartamento,Avenida Coronel Francisco Júlio César Alfieri 122,1.0,"Apartamento Residencial à Venda, Jardim Prudência, São Paulo.",1.0,
+,,,196400.0,Breve lançamento,41.0,25.0,1.0,Curitiba,Espaço Gourmet,,Centro,,1.0,Apartamento,"Rua Riachuelo 110, Centro",0.0,All You Need - Studio (25 M&sup2;) Localizado no Centro De Curitiba.,0.0,
+,,,850000.0,,,124.0,4.0,Guarujá,Salão de festas,,Praia da Enseada,Piscina,3.0,Apartamento,Rua Argentina 404,3.0,"Apartamento Residencial à Venda, Enseada, Guarujá - Ap7568.",2.0,
+8000.0,,1500.0,,48,455.0,220.0,2.0,São Paulo,,,Pacaembu,,3.0,Casa,R Garopaba 402,1.0,Pacaembu,3.0,8000.0
+,,,3448610.0,7,592.0,330.0,4.0,Curitiba,Espaço Gourmet,,Batel,,4.0,Apartamento,"Avenida Silva Jardim,3422",4.0,Apartamento à Venda no Batel,4.0,
+2570.0,1280.0,200.0,,15,52.0,50.0,1.0,São Paulo,Fitness/Sala de Ginástica,,Moema,Suítes,1.0,Apartamento,"Avenida Moema, 177",1.0,Flat Amplo Todo Mobiliado em Moema – Place Vendome – Flat & Flats 11 5042 - 6200,1.0,3850.0
+,350.0,200.0,690000.0,1,85.0,71.0,2.0,Florianópolis,,,Ingleses,Suítes,2.0,Apartamento,Estrada Dom João Becker 4,2.0,"Apartamento Residencial à Venda, Ingleses, Florianópolis.",1.0,
+,,,6950500.0,Em construção,343.0,343.0,6.0,São Paulo,Espaço Gourmet,,Alto de Pinheiros,,4.0,Casa,Rua Professor Fonseca Rodrigues,4.0,Fechamento De Mês Faça Sua Proposta - Casas Alto De Pinheiros!,4.0,
+,380.0,,550000.0,,95.0,75.0,2.0,Balneário Camboriú,,,Centro,Aceita Financiamento,2.0,Apartamento,Rua 1001 468,1.0,"Apartamento à Venda, Edifício Amazonas, Centro, Balneário Camboriú.",1.0,
+,1075.0,,795000.0,22,,101.0,3.0,São Paulo,,,Vila Mascote,Suítes,3.0,Apartamento,Rua Palestina 573,1.0,"Apartamento Residencial à Venda, Vila Mascote, São Paulo.",2.0,
+,380.0,900.0,749000.0,3,,160.0,3.0,Itapema,Elevador,,Meia Praia,Suítes,3.0,Apartamento,Rua 284,2.0,"Apartamento Mobiliado em Meia Praia Com Ampla Sacada, Bem Localizado (Ap0110).",2.0,
+,770.0,,1080000.0,5,210.0,124.0,3.0,Curitiba,Fitness/Sala de Ginástica,,Ecoville,Playground,3.0,Apartamento,Rua Deputado Heitor Alencar Furtado 3600,1.0,Apartamento - Axis 21,2.0,
+,560.0,,1250000.0,1,1000.0,240.0,6.0,Itu,Espaço Gourmet,Aceita FGTS,Condomínio Xapada Parque Ytu,Suítes,4.0,Casa,"Rodovia do Açúcar, km 23,5",4.0,Casa Residencial / Condomínio Xapada Parque Ytu,6.0,
+,688.0,90.0,479000.0,20,,68.0,2.0,São Paulo,Elevador,,Ipiranga,Guarita,3.0,Apartamento,R DO MANIFESTO,1.0,"Apartamento 3 Dormitórios, Suite, 68 Útil, 2 Vagas, Próximo Metrô Sacomã",2.0,
+,,,4085000.0,,514.0,284.0,4.0,Curitiba,Espaço Gourmet,,Batel,Suítes,3.0,Apartamento,Rua Francisco Rocha 165,3.0,Roc Batel - Sym Imóveis,4.0,
+,,1.0,5500000.0,Breve lançamento,500.0,500.0,0.0,,,,,Cozinha americana,5.0,Casa,,2.0,Casa à Venda - no Jardim Paulista,6.0,
+,,800.0,390000000.0,Breve lançamento,100.0,73.0,1.0,São Paulo,Interfone,Aceita FGTS,Saúde,Suítes,3.0,Apartamento,Rua 15 de Setembro,1.0,"Apartamento Com Sacada à Venda no Bairro Da Saúde, São Paulo 73 m&sup2;",2.0,
+1900.0,,118.0,,20,,167.0,3.0,Atibaia,Acesso asfaltado,,Vila Santista,Piso frio,3.0,Casa,Rua Floresta 62,1.0,Casa 3 Dormitórios em Bairro Nobre De Atibaia - Locação,2.0,1900.0
+,1000.0,1.0,750000.0,1,,170.0,2.0,Praia Grande,,,Canto do Forte,,3.0,Apartamento,AVENIDA MARECHAL MALLET 216,3.0,"Apartamento 3 Suites, Com 2 Vagas em Praia Grande. Pronto para Morar! Oportunidade Unica!",2.0,
+,190.0,,156000.0,Em construção,41.0,41.0,1.0,São Paulo,Espaço Gourmet,Aceita FGTS,Jardim São Savério,Churrasqueira,2.0,Apartamento,AV DOS OURIVES,0.0,.mega Lançamentooo - 2 Dorm. - Cursino Zona Sul! Venha Conferir!.,0.0,
+,525.0,,630000.0,6,,90.0,3.0,Águas Claras,,,Aguas Sul,Suítes,3.0,Apartamento,Rua 35 0,1.0,Rua 35 E 36 Sul Residencial Villa Mateus Reformado,2.0,
+,2433.0,,1450000.0,1,4913.0,266.0,6.0,São Paulo,Espaço Gourmet,Andares,Jardim Taquaral,Suítes,4.0,Apartamento,Rua Professor Campos de Oliveira,4.0,Apartamento 4 Dormitórios Com Suítes em São Paulo - Sp / Jardim Do Golf,4.0,
+,,,440930.0,1,65.0,65.0,1.0,São Paulo,Espaço Gourmet,Aceita FGTS,Vila Mascote,Suítes,3.0,Apartamento,Avenida Vereador João de Luca,1.0,Quadra Vila Mascote - Apartamento De 3 Dormitórios Com 1 Vaga - Zona Sul,1.0,
+15000.0,2900.0,709.0,,,,390.0,5.0,Santo André,Salão de festas,,Jardim,Armário embutido,4.0,Apartamento,Rua João Fernandes 86,3.0,Apartamento para Aluguel - no Jardim,6.0,17900.0
+3250.0,950.0,1.0,,,,284.0,3.0,Campinas,Playground,,Centro,Armário embutido,4.0,Casa,Giuseppe Máximo Scolfaro 501,1.0,Casa para Aluguel - no Centro,2.0,4200.0
+,100.0,30.0,650000.0,1,130.0,130.0,3.0,Rio de Janeiro,,,Campo Grande,,3.0,Casa,Estrada do Lameirão Pequeno,1.0,Rio Da Prata - Casa Duplex 3 Quartos/1 Suíte em Condomínio - 130 m&sup2; - 2 Vagas,2.0,
+1550.0,175.0,275.0,,15,35.0,35.0,1.0,,Acesso asfaltado,,,,0.0,Comercial,,0.0,Ed. Phoenix - Salão/barbearia,0.0,1725.0
+,1850.0,8000.0,20000000.0,5,2000.0,5000.0,17.0,Porto Feliz,,,Condomínio Fazenda Boa Vista,,10.0,Casa,Rodovia Castelo Branco,14.0,Praticamente Uma Pousada Particular Dentro Da Fazenda Boa Vista!,10.0,
+,,,15650000.0,,880.0,475.0,8.0,Balneário Camboriú,Frente para o mar,,Barra Sul,,6.0,Apartamento,"R. 4900, 5720 - Centro, Balneário Camboriú - SC 5720",6.0,Cobertura Torre Central Ibiza Towers,6.0,
+,,1300.0,474909.0,3,104.0,136.0,3.0,Curitiba,Espaço Gourmet,Aceita FGTS,Boa Vista,Suítes,3.0,Casa,Rua Santo Celestino Coleto,1.0,Residencial Boa Vista,2.0,
+,420.0,190.0,386000.0,10,500.0,74.0,1.0,,Salão de festas,,,Varanda Gourmet,2.0,Apartamento,,1.0,"Apartamento Com 2 Dorms, Guilhermina, Praia Grande",1.0,
+,,2800.0,1261000.0,12,,393.0,4.0,Xangri-Lá,Espaço Gourmet,Aceita FGTS,Atlantida,Suítes,4.0,Casa,AVENIDA JAÇANA,2.0,Casa Mobiliada na Praia De Atlantida - 393 m&sup2; - 4 Quartos - Piscina,5.0,
+,1500.0,,2149000.0,,430.0,267.0,5.0,Curitiba,Fitness/Sala de Ginástica,,Ecoville,Suítes,3.0,Apartamento,Rua Pedro Viriato Parigot de Souza 3635,3.0,"Apartamento à Venda, Ecoville, Com 3 Suítes E 3 Vagas De Garagem.",3.0,
+,,,25000.0,1,60.0,50.0,1.0,Florianópolis,,,Ingleses do Rio Vermelho,Churrasqueira,2.0,Apartamento,NILDO NEPONOCENO FERNANDES n° 48,1.0,Apartamento à Venda - em Ingleses,1.0,
+,319.0,493.0,320000.0,4,89.0,51.0,1.0,Curitiba,Salão de Jogos,,Vila Izabel,Aceita Financiamento,1.0,Apartamento,R GUARARAPES,0.0,Apartamento Vila Izabel 1 Dormitório Face Norte Com Sacada,1.0,
+3000.0,1279.0,201.0,900000.0,27,273.0,220.0,3.0,Campinas,,,Bosque,,2.0,Apartamento,Sob Consulta 55,1.0,Cobertura Á Venda E para Aluguel em Bosque,2.0,4279.0
+,,289.0,47000.0,7,179.0,158.0,3.0,Poá,,,Centro,Suítes,3.0,Casa,"Rua Coronel Isidoro Dias Lopes,",1.0,Sobrado em Poá / Financiamento em Andamento,2.0,
+,660.0,220.0,665000.0,18,82.0,82.0,2.0,São Paulo,Fitness/Sala de Ginástica,,Jardim Marajoara,Guarita,3.0,Apartamento,R Álvares de Azevedo 190,1.0,"Apartamento Com 3 Dormitórios, Sendo 1 Suíte, Sala Com 2 Ambientes",2.0,
+1583.0,1800.0,117.0,275000.0,15,201.0,35.0,1.0,São Paulo,Espaço Gourmet,,Brooklin,Mobiliado,0.0,Apartamento,rua Hans Oersted,1.0,"Flat no Brooklin Oportunidade, Consulte - Nos",1.0,3383.0
+,423.0,344.0,350000.0,,,68.0,1.0,Águas Claras,Espaço Gourmet,,Aguas Sul,Ar condicionado,2.0,Apartamento,Rua das Pitangueiras 12,1.0,Rhodes 2 Qtos 1 Suíte 68 m&sup2; Varanda E 1 Vaga De Garagem (Em Frente A Estação De Metrô),1.0,
+,640.0,,795000.0,Em construção,110.0,110.0,3.0,Santos,Espaço Gourmet,Andares,Vila Rica,Suítes,3.0,Apartamento,Rua Machado de Assis,1.0,Apartamento na Vila Rica 3 Dormitórios 2 Vagas E Lazer,2.0,
+,,,439000.0,1,150.0,95.0,4.0,Rio de Janeiro,Fitness/Sala de Ginástica,,Campo Grande,Churrasqueira,3.0,Casa,Estrada da Cachamorra 2011,3.0,Contemporâneo Design Resort houses/tel:(21) 97949 - 4955 (Whatsapp),2.0,
+1800.0,1100.0,,,,,110.0,2.0,São Paulo,Salão de festas,,Santana,Armário embutido,3.0,Apartamento,Rua Voluntários da Pátria 3714,1.0,Apartamento para Aluguel - em Santana,2.0,2900.0
+,2040.0,,4000000.0,,,649.0,,Mangaratiba,,,Centro,,5.0,Casa,Endereço não informado,5.0,Casa à Venda - no Centro,4.0,
+,350.0,70.0,199000.0,3,403.0,403.0,,Cotia,Salão de festas,,Granja Viana,Esgoto,0.0,Terreno,Avenida Nicodemos de Carvalho 850,,Reserva Santa Paula - Granja Viana (Portal),,
+2500.0,400.0,167.0,,,,44.0,1.0,São Paulo,Salão de festas,,Santana,Armário embutido,1.0,Apartamento,Rua Ezequiel Freire 62,0.0,Apartamento para Aluguel - em Santana,1.0,2900.0
+,,,2415000.0,10,301.0,301.0,6.0,Rio de Janeiro,,,Barra da Tijuca,,4.0,Apartamento,Flamboyants,4.0,Saint Barth - Flamands - 301 m&sup2; - 04 Suites - Península,4.0,
+1700.0,750.0,97.0,450000.0,9,,71.0,2.0,Rio de Janeiro,,,Jacarepaguá,Mobiliado,2.0,Apartamento,,1.0,Apto De 2 Quartos - Mobiliado - na Região Do Parque Olímpico,1.0,2450.0
+2900.0,1160.0,141.0,,,,111.0,2.0,São Paulo,Salão de festas,,Vila Olímpia,Armário embutido,3.0,Apartamento,Rua Cabo Verde 87,0.0,Apartamento para Aluguel - na Vila Olímpia,2.0,4060.0
+3250.0,1974.0,489.0,,,,158.0,3.0,São Paulo,Salão de festas,,Panamby,Armário embutido,3.0,Apartamento,Rua Germano Ulbrich 184,3.0,Apartamento para Aluguel - no Panamby,3.0,5224.0
+,790.0,290.0,1180000.0,12,180.0,103.0,1.0,São Paulo,Fitness/Sala de Ginástica,,Perdizes,Suítes,3.0,Apartamento,CAYOWAA,1.0,Apartamento à Venda - em Perdizes,2.0,
+,,,1050000.0,2,240.0,240.0,5.0,São Paulo,Fitness/Sala de Ginástica,Aceita FGTS,Penha,Suítes,4.0,Apartamento,"Rua faustino paganini , penha SP",1.0,Linda Cobertura Duplex 240 m&sup2; 4 Dorm 5 Banheiros 1 Suite 2 Vagas 3 Sacadas Penha,2.0,
+,550.0,70.0,270000.0,5,75.0,60.0,2.0,São Paulo,Elevador,Aceita FGTS,Vila Santa Catarina,Piso frio,2.0,Apartamento,TENENTE AMÉRICO MORETTI,0.0,"Apartamento, Com Fino Acabamento no Melhor Da Vila Santa Catarina!",1.0,
+1600.0,1100.0,100.0,350000.0,,,35.0,1.0,São Paulo,Interfone,,Moema,Mobiliado,1.0,Apartamento,Alameda dos Anapurus 1661,,Flat The Palace para Locação E Venda em Moema,1.0,2700.0
+,980.0,4800.0,2500000.0,1,418.0,313.0,5.0,Brasília,Elevador,,Noroeste,Churrasqueira,4.0,Apartamento,Quadra SQNW 309,3.0,Espaço E Segurança - Cobertura Duplex - Île De La Cité,3.0,
+,,,450000.0,,,96.0,2.0,Balneário Camboriú,,,Centro,Aceita Financiamento,2.0,Apartamento,Rua 1950 163,,"Apartamento à Venda, Edifício Itoporanga Centro, Balneário Camboriú.",1.0,
+,,2183.0,440000.0,,2150.0,,3.0,Ibiúna,,,Do Cupim,Varanda,,Rural,000,,"Cod.4657 - Ibiúna, Chácara Dos Sonhos Próxima Ao Centro!",3.0,
+,1900.0,1400.0,2500000.0,8,,411.0,4.0,São Paulo,Salão de festas,,Vila Mariana,Suítes,4.0,Apartamento,R MACHADO DE ASSIS,2.0,Excelente Oportunidade na Vila Mariana!,4.0,
+,250.0,,219999.0,,30.0,30.0,1.0,Curitiba,Salão de festas,,Batel,Aceita Financiamento,1.0,Apartamento,Avenida Visconde de Guarapuava 3806,,Apartamento Studio em Frente Ao Shopping Curitiba,,
+25000.0,3800.0,2000.0,5100000.0,5,,351.0,4.0,São Paulo,,,Campo Belo,Suítes,3.0,Apartamento,Rua Gabriele D Annunzio 1002,3.0,"Apartamento Residencial para Venda E Locação, Campo Belo, São Paulo.",,28800.0
+1380.0,300.0,45.0,,,,33.0,1.0,Curitiba,Fitness/Sala de Ginástica,,Centro,Elevador,1.0,Apartamento,Rua Conselheiro Laurindo 1138,0.0,"Apartamento Studio no Centro De Curitiba, 100% Mobiliado, 7th Avenue",0.0,1680.0
+3700.0,1520.0,650.0,,,86.0,86.0,3.0,,Elevador,Andares,,Piso elevado,,Comercial,,,"Locação De Sala Comercial 86 m&sup2;, Proximo A Estação Liberdade Do Metrô. Cod. Paoc121",2.0,5220.0
+,,,269900.0,1,58.0,52.0,2.0,Guarulhos,Fitness/Sala de Ginástica,Aceita FGTS,Picanço,Suítes,2.0,Apartamento,Rua. dona tecla -Picanço Guarulhos,1.0,Apartamento (Cond Dona Tecla) 2 Dorm 1 Ou 2 Vagas Suite C Sacada Lazer Completo,1.0,
+,1200.0,,2350000.0,2,,157.0,5.0,Balneário Camboriú,Espaço Gourmet,,Centro,Suítes,3.0,Apartamento,AVENIDA BRASIL 2413,3.0,"Apartamento Com Vista Mar, na Quadra Do Mar",3.0,
+,,,580000.0,,180.0,,2.0,Osasco,,,Jaguaribe,,3.0,Casa,Não Informado,1.0,Casa - Jaguaribe,2.0,
+,,,1980000.0,,590.0,300.0,5.0,Carapicuíba,Salão de festas,,Granja Viana,Suítes,4.0,Casa,Avenida São Camilo 0,4.0,"Casa Térrea De Alto Padrão, Alphaville Granja viana.(Portal)",4.0,
+,,,889990.0,1,220.0,140.0,3.0,Curitiba,Espaço Gourmet,Aceita FGTS,Bigorrilho,,3.0,Apartamento,"Rua Francisco Rocha, 1527",2.0,Batel - Concetto Cobertura Duplex Mobiliada - 3 Quartos 2 Vagas,2.0,
+,920.0,430.0,400000.0,,190.0,130.0,,Guarujá,Piscina,,Praia da Enseada,Churrasqueira,3.0,Apartamento,Rua Abdala Daige,1.0,Lado Praia,2.0,
+9000.0,2150.0,700.0,1970000.0,1,216.0,165.0,3.0,São Paulo,,,Brooklin,Churrasqueira,4.0,Apartamento,Rua Professor José Leite e Oiticica 237,2.0,Cyrela. Pedra 90.oiticica,3.0,11150.0
+,250.0,90.0,135000.0,,45.0,33.0,1.0,Praia Grande,,,Vila Guilhermina,,,Casa,,,Apartamento Frente Ao Mar,1.0,
+,,,608900.0,Breve lançamento,147.0,85.0,2.0,Curitiba,Espaço Gourmet,Andares,Mercês,Churrasqueira,2.0,Apartamento,Rua Visconde do Rio Branco,2.0,Duet Mercês - Tranquilidade De Uma Casa Com Segurança De Um Apartamento.,2.0,
+,350.0,,849990.0,4,150.0,150.0,4.0,São Bernardo do Campo,Fitness/Sala de Ginástica,Aceita FGTS,Jardim do Mar,Suítes,3.0,Apartamento,"Rua Continental, 701",3.0,"Vila Verde Mineirinhos - 150 m, 3 Vagas Com Lazer Clube",3.0,
+,4290.0,2560.0,6250000.0,5,3000.0,306.0,3.0,São Paulo,Espaço Gourmet,,Moema,Suítes,4.0,Apartamento,AV CHIBARÁS,4.0,4 Suítes - Vista Eterna Parque Ibirapuera,5.0,
+,,,788056.0,1,333.0,333.0,2.0,São Paulo,,,Mooca,,3.0,Casa,Comendador Roberto Ugolini,0.0,Casa Com Terreno De 333 m&sup2; no Parque Da Mooca - Leilão Online 20.11,2.0,
+,1200.0,450.0,2100000.0,1,151.0,151.0,4.0,São Paulo,Espaço Gourmet,,Campo Belo,Suítes,4.0,Apartamento,Rua República do Iraque,2.0,Condomínio Edifício Quartier Campo Belo - Sp,3.0,
+,850.0,310.0,692000.0,7,,107.0,3.0,São Paulo,Espaço Gourmet,,Vila Andrade,Suítes,2.0,Apartamento,R José da Silva Ribeiro 200,2.0,"Apartamento para Venda na Vila Andrade, São Paulo Sp",2.0,
+,,,2683000.0,Breve lançamento,,131.0,6.0,São Paulo,Fitness/Sala de Ginástica,Andares,Cidade Monções,Suítes,4.0,Apartamento,"Rua Califórnia, 1127 - Brooklin - São Paulo",4.0,Grand Habitarte - Brooklin - 225 m&sup2;,4.0,
+18000.0,2951.0,2370.0,,,650.0,375.0,1.0,São Paulo,Salão de festas,,Alto de Pinheiros,Suítes,,Apartamento,R MASSACÁ 231,3.0,"Cobertura para Locação - São Paulo / Sp, Bairro Alto De Pinheiros",5.0,20951.0
+,,,798800.0,2,223.0,120.0,4.0,Curitiba,Espaço Gourmet,,Cabral,Suítes,3.0,Apartamento,"R. Cel. Amazonas Marcondes, 448",3.0,Apartamento no Cabral Pronto para Morar Com 3 Quartos - 2 Vagas,2.0,
+,250.0,130.0,314000.0,1,56.0,56.0,2.0,Santos,Espaço Gourmet,Aceita FGTS,Boqueirão,Suítes,1.0,Apartamento,R. Oswaldo Cruz,1.0,Apartamento 1 Dorm. Patio 21 - Lazer Completo,1.0,
+,1.0,1.0,535000.0,,120.0,98.0,,Curitiba,,,Alto da Glória,Churrasqueira,3.0,Apartamento,Avenida João Gualberto 575,1.0,"Apartamento Residencial à Venda, Alto Da Glória, Curitiba.",1.0,
+550.0,70.0,,,1,33.0,33.0,1.0,Ceilândia,,,Ceilandia Sul,Piso frio,1.0,Apartamento,QD QNM 9 Conjunto D,0.0,Apartamento C/ Iptu 2018 Gratuito,0.0,620.0
+,218.0,600.0,140000.0,10,50.0,50.0,1.0,,Salão de festas,,,Armário de cozinha,2.0,Apartamento,,,Apartamento à Venda - em Camargos,1.0,
+,,,631720.0,1,246.0,122.0,0.0,São Paulo,Espaço Gourmet,,Pirituba,,0.0,Apartamento,"Avenida do Anastácio, 1240",0.0,Apartamento em Pirituba - São Paulo/sp Com 30% Abaixo Do Valor De Avaliação!,2.0,
+,490.0,,548000.0,5,112.0,84.0,2.0,São Caetano do Sul,,,Jardim São Caetano,,3.0,Apartamento,rua justino paixão,1.0,Apartamento 84 m&sup2; - 03 Dorms - Jd. S. caetano - Mobiliado - 02 Vagas - Lazer,2.0,
+,400.0,,384200.0,1,77.0,77.0,2.0,São Bernardo do Campo,Fitness/Sala de Ginástica,,Baeta Neves,Suítes,2.0,Apartamento,Av. Pereira Barreto,1.0,"Aptos De 77 E 94 m&sup2; Terraço Gourmet E Churrasqueira, Frente Sonda Pereira Barreto",1.0,
+1200.0,270.0,100.0,,,71.0,58.0,1.0,Porto Alegre,,,Auxiliadora,Área de serviço,2.0,Apartamento,MARILAND,0.0,Apartamento para Aluguel - em Auxiliadora,0.0,1470.0
+,,,3000000.0,,360.0,,,Balneário Camboriú,,,Centro,Suítes,4.0,Apartamento,Atlântica 2790,2.0,Apartamento à Venda - no Centro,2.0,
+,280.0,,242600.0,1,,54.0,2.0,Diadema,Fitness/Sala de Ginástica,Aceita FGTS,Centro,,2.0,Apartamento,"Rua Gáspar Ricardo, 308",1.0,"Evolution Diadema - R$242 Mil - 2 Dorms - Suíte - Shopping Praça Da Moça, Term. Diadema",1.0,
+,150.0,,184000.0,Breve lançamento,41.0,41.0,1.0,São Paulo,Fitness/Sala de Ginástica,Aceita FGTS,Centro,Permite animais,2.0,Apartamento,largo do cambuci,0.0,Apartamento 2 Mil De Entrada Prox Metro Vl Mariana/consolacao/cambuci P/ 184 Mil,0.0,
+,,,300000.0,11,206.0,109.0,2.0,São Paulo,,Posição do Sol,Cidade São Mateus,,3.0,Casa,SÃO MATHEUS,1.0,Sobrado Bom Preço São Matheus,3.0,
+,450.0,1000.0,600000.0,11,170.0,120.0,2.0,Itapema,Espaço Gourmet,Andares,Meia Praia,Suítes,3.0,Apartamento,Rua 248,1.0,"Apartamento em Meia Praia, Com 03 Dormítórios",1.0,
+,1400.0,287.0,1900000.0,67,182.0,182.0,1.0,Rio de Janeiro,Interfone,,Copacabana,Varanda,4.0,Apartamento,Rua Belfort Roxo,3.0,Apartamento à Venda - em Copacabana,1.0,
+30000.0,,,,,500.0,1200.0,0.0,São Bernardo do Campo,,,Rudge Ramos,,,Comercial,,,Prédio Comercial Bem Localizado no Bairro Rudge Ramos.,0.0,30000.0
+,240.0,,229000.0,Breve lançamento,18.0,18.0,1.0,São Paulo,Fitness/Sala de Ginástica,,Jardins,,1.0,Apartamento,Avenida Rebouças,1.0,"Studios De 18 A 49 m&sup2; no Jardins, Ao Lado Do Metrô Oscar Freire",0.0,
+,1500.0,3300.0,990000.0,1,95.0,95.0,3.0,Rio de Janeiro,Fitness/Sala de Ginástica,Aceita FGTS,Barra da Tijuca,Suítes,3.0,Apartamento,Avenida das Acácias 650,1.0,"Apartamento A Venda na Barra Da Tijuca, Peninsula",1.0,
+,1070.0,2160.0,1190000.0,6,247.0,115.0,3.0,Curitiba,Espaço Gourmet,,Batel,Churrasqueira,3.0,Apartamento,Buenos Aires 259,1.0,Imperdível Apartamento no Batel - J8 Imóveis,3.0,
+,1190.0,580.0,1950000.0,,247.0,148.0,4.0,São Paulo,Fitness/Sala de Ginástica,,Brooklin,Suítes,3.0,Apartamento,Rua Guararapes 2071,2.0,Apartamento no Humanari Brooklin 3 Dormitórios,2.0,
+,,,360000.0,2,,113.0,3.0,Curitiba,Acesso asfaltado,,Uberaba,Suítes,3.0,Casa,Rua Aristeu Martins 346,1.0,"Sobrado Residencial Á Venda, Uberaba, Curitiba.",2.0,
+,340.0,500.0,358000.0,1,1050.0,35.0,1.0,Brasília,Espaço Gourmet,Andares,Noroeste,Mobiliado,1.0,Apartamento,SQNW 307 C DUE,1.0,Due Capri Due Murano Vista Livre Banheiro no Meio E Vaga 9.9658 - 7484 Atrium,1.0,
+,690.0,90.0,645000.0,5,97.0,77.0,2.0,São Paulo,Elevador,,Saúde,Suítes,3.0,Apartamento,Jureia,0.0,"3 Dormitórios, Impecável, 2 Vagas - 6282van",2.0,
+,790.0,,925000.0,2,263.0,155.0,4.0,Curitiba,Espaço Gourmet,,Portão,Suítes,4.0,Apartamento,Rua Professora Doracy Cezzarino 138,2.0,Apartamento 4 Quartos no Portão,2.0,
+,280.0,,299000.0,38,118.0,65.0,0.0,Curitiba,,,Água Verde,,3.0,Apartamento,Rua Bento Viana 553,0.0,Apartamento à Venda - na Água Verde,1.0,
+4800.0,950.0,345.0,,,155.0,155.0,2.0,Brasília,,,Asa Norte,Churrasqueira,2.0,Apartamento,Quadra SQN 402 Bloco N 0,,"Asa Norte, Apartamento Cobertura, 2 Quartos, 2 Vagas De Garagem, Churrasqueira.",2.0,5750.0
+,470.0,2000.0,850000000.0,5,250.0,183.0,4.0,Itapema,Espaço Gourmet,Aceita FGTS,Meia Praia,Suítes,3.0,Apartamento,"Rua 258,",3.0,"Barbada em Meia Praia, Apto Pronto à 100 m Da Praia",3.0,
+1400.0,620.0,,365000.0,32,,52.0,1.0,São Paulo,Elevador,,Jabaquara,Piso frio,2.0,Apartamento,R DAS SERINGUEIRAS,0.0,"Ótimo Apto. A 5 Minutos A Pé Do Metrô Jabaquara, Vaga Livre E Fixa",1.0,2020.0
+,1480.0,352.0,2390000.0,,267.0,176.0,4.0,São Paulo,,,Jardim Paulista,Suítes,3.0,Apartamento,Alameda Casa Branca 749,2.0,Apartamento na Alameda Casa Branca Reformado E Venda,,
+1880.0,530.0,90.0,,13,27.0,27.0,1.0,São Paulo,Espaço Gourmet,,Jardins,Ar condicionado,1.0,Apartamento,AL Lorena 1014,1.0,Flata para Alugar no Jardins,1.0,2410.0
+,1800.0,77.0,777000.0,17,133.0,78.0,,Bertioga,Quadra poliesportiva,,Riviera de São Lourenço,Ar condicionado,1.0,Apartamento,Alameda das Conchas,,"Apartamento, Riviera De São Lourenço - Bertioga",1.0,
+,1300.0,,1395000.0,4,310.0,174.0,5.0,Curitiba,,,Ecoville,Suítes,3.0,Apartamento,Rua Deputado Heitor Alencar Furtado 3980,3.0,Luxuoso Apartamento Plaenge Infinity E Privilege,3.0,
+3000.0,350.0,100.0,850000.0,8,,108.0,4.0,Jundiaí,Espaço Gourmet,Andares,Anhangabaú,Armário de cozinha,2.0,Apartamento,Rua Barão de Teffe 127,2.0,Lindo Apartamento no Condominio Vitta Club!,2.0,3350.0
+2300.0,1250.0,100.0,285000.0,5,40.0,28.0,1.0,São Paulo,Espaço Gourmet,Aceita FGTS,Jardim Paulista,Mobiliado,1.0,Apartamento,"Alameda Lorena, 473",1.0,Oportunidade Imperdível Nos Jardins – Transamérica (11) 96798 - 9009 Júlia Flats,1.0,3550.0
+,700.0,,460000.0,,,51.0,1.0,São Paulo,,,Chácara Klabin,,2.0,Apartamento,R Pageu,0.0,Apartamento - 2 Dormitórios - Vila Mariana,1.0,
+,362.0,,579000.0,5,150.0,77.0,2.0,Curitiba,Salão de festas,,Centro,Suítes,2.0,Apartamento,BENJAMIN CONSTANT 510,1.0,Apartamento à Venda - no Centro,2.0,
+,,,1000000.0,3,110.0,110.0,4.0,São Paulo,Fitness/Sala de Ginástica,Aceita FGTS,Vila Mascote,Suítes,2.0,Apartamento,Avenida Mascote nº. 883,2.0,Fantástico! Apartamento à Venda na Vila Mascote,2.0,
+,2350.0,750.0,3200000.0,43,,236.0,4.0,,,,,Dependência de empregados,3.0,Apartamento,,1.0,Apartamento à Venda - no Jardim Europa,2.0,
+7900.0,1600.0,800.0,,,121.0,121.0,2.0,São Paulo,Acesso asfaltado,,Pinheiros,Mobiliado,0.0,Comercial,Rua Amaro Cavalheiro 347,,Conjunto Comercial Pinheiros Mobiliado,3.0,9500.0
+,,,1690000.0,13,419.0,237.0,4.0,Balneário Camboriú,Sistema de alarme,,Centro,Suítes,3.0,Apartamento,Rua 101 109,3.0,Cobertura A Venda em Balneário Camboriú - Piscina Privativa,4.0,
+,4280.0,1400.0,1650000.0,22,700.0,367.0,6.0,São Paulo,Espaço Gourmet,,Morumbi,Suítes,4.0,Apartamento,R AMBRIZETE 180,3.0,Cobertura Duplex Com Vista Panamby.,6.0,
+,,,1400000.0,,,240.0,3.0,Barueri,Fitness/Sala de Ginástica,,Jardim Tupanci,Área de serviço,3.0,Apartamento,Rua Werner Goldberg 0,1.0,Apartamento - Jardim Tupanci,2.0,
+2400.0,427.0,859.0,,,,61.0,2.0,Águas Claras,,,Aguas Sul,Churrasqueira,2.0,Apartamento,Avenida das Araucárias 4400,1.0,"Apartamento, 02 Quartos, Via Enseada Home Club, Águas Claras.",2.0,2827.0
+,700.0,,920000.0,43,,145.0,3.0,Brasília,Interfone,Andares,Asa Sul,Suítes,3.0,Apartamento,SQS 311 - Bloco E,1.0,"Quadra Nobre, Com 3 Quartos, Sendo 1 Suíte, Sala 2 Ambientes",0.0,
+,450.0,800.0,484000.0,1,110.0,65.0,2.0,Curitiba,Fitness/Sala de Ginástica,,Centro,,2.0,Apartamento,rua marechal deodoro,1.0,Apartamento Berkely Alto Da Xv 2 Dormitórios 1 Suíte 1 Vaga,1.0,
+70000.0,,,,,,1184.0,0.0,Santo André,,,Jardim,,,Comercial,RUA MANOEL PEDRO JUNIOR 323,,Comercial para Aluguel - no Jardim,0.0,70000.0
+650.0,,20.0,,,80.0,80.0,1.0,São Paulo,,,Vila Nina,,0.0,Comercial,Rua João Daudt Filho 22,,"Salão Comercial para Locação, Vila Nina, São Paulo.",,650.0
+,,,12900500.0,Breve lançamento,475.0,475.0,6.0,São Paulo,Fitness/Sala de Ginástica,,Jardim Paulista,,5.0,Apartamento,Alameda Campinas,4.0,Fechamento De Mês Faça Sua Proposta - Cobertura no Jardins!,5.0,
+2300.0,1000.0,200.0,,,117.0,117.0,1.0,São Paulo,Fitness/Sala de Ginástica,,Santana,Dependência de empregados,2.0,Apartamento,"VOLUNTARIOS DA PATRIA, 2570",1.0,Apartamento para Aluguel - em Santana,1.0,3300.0
+,,,4800000.0,,598.0,576.0,6.0,Santana de Parnaíba,Fitness/Sala de Ginástica,,Alphaville,Hidromassagem,4.0,Casa,Alameda Pelotas (Residencial Dezoito Do Forte) 100,4.0,Casa - Alphaville,6.0,
+,480.0,980.0,597000.0,,140.0,,,Florianópolis,Aquecimento central,,Campeche,Mobiliado,2.0,Apartamento,Campeche 1670,1.0,Apartamento à Venda - na Campeche,2.0,
+,1000.0,650.0,1845000.0,8,,152.0,5.0,São Paulo,Fitness/Sala de Ginástica,Andares,Vila Romana,Suítes,4.0,Apartamento,Rua Marco Aurélio,2.0,"Avance Vila Romana, Rua Marco Aurélio Padrão Paulo Mauro.",4.0,
+,,,999000.0,1,105.0,105.0,2.0,São Paulo,Fitness/Sala de Ginástica,Aceita FGTS,Cidade Monções,Geladeira,0.0,Apartamento,Rua Pensilvânia,1.0,Cobertura Duplex 2 Dormitórios no Brooklin/pensilvânia/são Paulo Capital,1.0,
+6500.0,1460.0,427.0,,,,210.0,3.0,Belo Horizonte,Salão de festas,,Sion,Armário embutido,4.0,Apartamento,Rua Cristina 433,3.0,Apartamento para Aluguel - em Sion,2.0,7960.0
+,960.0,165.0,450000.0,16,,73.0,1.0,São Paulo,Fitness/Sala de Ginástica,Aceita FGTS,Vila Suzana,Armário embutido,0.0,Apartamento,Oscar Monteiro de Barros,1.0,Apartamento para Venda na Vila Suzana,1.0,
+,,,588200.0,,120.0,85.0,2.0,Curitiba,,,Cabral,Churrasqueira,3.0,Apartamento,Rua Deputado Joaquim José Pedrosa 840,1.0,"Apartamento Residencial à Venda, Cabral, Curitiba.",2.0,
+15000.0,,,,1,1000.0,430.0,0.0,Bebedouro,,,Centro,,0.0,Comercial,"Rua quinze de novembro, 423",0.0,Loja Impecável Com Estacionamento Privativo no Coração De Bebedouro,0.0,15000.0
+6000.0,,,,1,400.0,306.0,4.0,,,,,Edícula,3.0,Comercial,,0.0,Casa Comercial Excelente para Clinicas,3.0,6000.0
+,400.0,1253.0,1350000.0,10,329.0,329.0,3.0,Brasília,Portão Eletrônico,,Park Way,Guarita,4.0,Casa,Quadra SMPW Quadra 22 Conjunto 1 Lote 10,1.0,Smpw Quadra 22 Conjunto 1 Lote 10,4.0,
+,650.0,3300.0,950000.0,3,106.0,106.0,2.0,São Paulo,Salão de festas,,Chácara Califórnia,Suítes,3.0,Apartamento,"Rua Antônio de Lucena, 155",1.0,106 m&sup2; 03 Dormitórios (Sendo 01 Suíte) 02 Vagas Terraço Com Churrasqueira,2.0,
+,,,375000.0,,114.0,,,Florianópolis,,,Campeche,Área de serviço,2.0,Casa,Revoar Das Gaivotas 13,2.0,Casa à Venda - na Campeche,1.0,
+,220.0,,208900.0,1,42.0,42.0,1.0,São Bernardo do Campo,Fitness/Sala de Ginástica,Aceita FGTS,Centro,Suítes,1.0,Apartamento,Felício Laurito,0.0,Compre Seu Start Club Pronto Pra Morar Apartir De 208 Mil - Minha Casa Minha Vida,1.0,
+,460.0,2000.0,310000.0,,451.0,451.0,,São José dos Campos,,,Urbanova,,,Terreno,,,"04935 - Terreno, Urbanova - São José Dos Campos/sp",0.0,
+,450.0,,520000.0,16,110.0,89.0,2.0,Porto Alegre,Fitness/Sala de Ginástica,,Tristeza,Churrasqueira,2.0,Apartamento,Rua Álvaro Guterres,1.0,Apartamento à Venda - em Tristeza,2.0,
+,1000.0,150.0,780000.0,1,207.0,200.0,3.0,Cotia,Fitness/Sala de Ginástica,Aceita FGTS,Granja Viana,Suítes,3.0,Casa,Avenida Jose Giorgi  1200,1.0,Granja Viana - Quinta Da Vila Real,4.0,
+,840.0,135.0,559000.0,18,64.0,64.0,2.0,São Paulo,Salão de festas,,Vila Mariana,Aceita Financiamento,3.0,Apartamento,R PADRE MACHADO,1.0,Apartamento - Vila Mariana - Três Dormitórios - Duas Vagas,2.0,
+,608.0,1891.0,590000.0,,80.0,59.0,2.0,Brasília,,,Lago Sul,Copa,0.0,Comercial,Quadra SHIS QI 9 1,,"Sala, Lago Sul, Shis Qi 09 Centro Clinico Lago I",,
+,400.0,120.0,340000.0,,85.0,85.0,3.0,Santos,,,Embaré,Piso frio,2.0,Apartamento,Rua da Liberdade 68,1.0,"02 Dormitórios, Dependência, Garagem Fechada, Embare",1.0,
+,1213.0,134.0,873000.0,7,115.0,115.0,1.0,Rio de Janeiro,Interfone,,Barra da Tijuca,Suítes,3.0,Apartamento,Avenida Vice Presidente José de Alencar,1.0,Apartamento à Venda - na Barra Da Tijuca,2.0,
+,,,990000.0,1,134.0,134.0,0.0,Itapema,,,Meia Praia,Suítes,3.0,Apartamento,RUA 294,3.0,"Oferta, Apartamento 03 Dormitórios A Venda em Itapema!",1.0,
+1500.0,440.0,40.0,320000.0,9,50.0,50.0,1.0,São Paulo,Fitness/Sala de Ginástica,Aceita FGTS,Jardim das Vertentes,Piso frio,2.0,Apartamento,Trajano Reis,0.0,Lindo Apto Coladinho Ao Metrô Vila Sônia E Rico em Armários.,1.0,1940.0
+,,,427000.0,Em construção,119.0,96.0,2.0,Curitiba,,,Boqueirão,,3.0,Casa,Rua Padre Dehon,1.0,Condomínio Residencial St. James,2.0,
+440.0,200.0,40.0,,,29.0,22.0,0.0,Porto Alegre,,,Centro Histórico,Suítes,,Comercial,ALBERTO BINS,,Comercial para Aluguel - no Centro Histórico,0.0,640.0
+,774.0,420.0,4700000.0,,863.0,500.0,6.0,Vinhedo,Quadra poliesportiva,,Condomínio Campo de Toscana,Suítes,4.0,Casa,Sob Consulta 1400,4.0,Casa à Venda em Condomínio Campo De Toscana,3.0,
+,,160.0,950000.0,,128.0,200.0,3.0,São Paulo,,,Vila Bertioga,Quintal,6.0,Comercial,R Major Basílio,,Sobrado Comercial Com Área De 200 m&sup2; na Mooca,2.0,
+,,,470000.0,,80.0,120.0,3.0,São Paulo,,,Vila Carrão,Estuda permuta,3.0,Casa,R Ângelo Pavan,1.0,Sobrado Com 3 Dormitórios E 2 Vagas à Venda na Vila Carrão,2.0,
+,315.0,,395000.0,5,,78.0,2.0,Balneário Camboriú,,,Vila Real,Mobiliado,2.0,Apartamento,Rua Dom Francisco 240,1.0,Apartamento A Venda em Balneário Camboriú - 1 Suíte + 1 Dormitório - 1 Vaga,1.0,
+,989.0,1389.0,1568000.0,1,292.0,292.0,5.0,Curitiba,Salão de festas,,Santa Felicidade,Suítes,4.0,Casa,Acelino Grande 525,4.0,Casa Sofisticada E Aconchegante em Condomínio,4.0,
+,1200.0,850.0,1980000.0,28,386.0,386.0,2.0,Rio de Janeiro,,,Barra da Tijuca,Suítes,4.0,Apartamento,Rua Einstein,2.0,Apartamento à Venda - na Barra Da Tijuca,2.0,
+,,317.0,2050000.0,,1200.0,620.0,,Brasília,,,Lago Norte,,4.0,Casa,QD Shin Qi 10 8,3.0,"Ótimo Projeto, Vista Livre E Estuda Proposta Com Imóveis.",,
+8000.0,1407.0,475.0,,,360.0,,,Curitiba,Salão de festas,,Batel,Suítes,3.0,Apartamento,Gutemberg 316,1.0,Para Quem Gosta De Espaço E Conforto,3.0,9407.0
+,1530.0,265.0,950000.0,,165.0,165.0,4.0,Salvador,Interfone,Andares,Horto Florestal,Guarita,4.0,Apartamento,RUA WALDEMAR FALCÃO 1362,3.0,Oportunidade Palazzo Jonico 4 Quartos Sendo 3 Suítes 165 m&sup2; no Horto Florestal,3.0,
+,,,32900.0,,1106.0,,0.0,Presidente Figueiredo,,,Centro,,0.0,Terreno,Rodovia BR 174,,Leilão De Terreno 1.106 m&sup2; - Tancredo Neves - Presidente Figueiredo - Am,0.0,
+,,800.0,850000.0,,407.0,,,Florianópolis,,,Rio Tavares,,3.0,Casa,Isaltina De Assunção Farias 313,1.0,Casa à Venda - em Rio Tavares,3.0,
+,470.0,600.0,520000.0,5,,63.0,2.0,Guará,Espaço Gourmet,Aceita FGTS,Guara II,Permite animais,2.0,Apartamento,Olympique,0.0,"Olympique, 2 Quartos, Reformadissimo",1.0,
+,,,670000.0,,211.0,211.0,4.0,Curitiba,,,Hauer,,4.0,Casa,Rua Padre Dehon 3444,1.0,"Sobrado Residencial à Venda, Hauer, Curitiba.",2.0,
+,,,211370.0,,42.0,31.0,1.0,Curitiba,Salão de festas,,Juvevê,Churrasqueira,1.0,Apartamento,Rua Nicolau Maeder 648,,"Apartamento à Venda, Juvevê, Curitiba.",,
+,,,224000.0,Breve lançamento,43.0,31.0,1.0,Brasília,Interfone,Andares,Noroeste,,1.0,Apartamento,CRNW 510,1.0,Kit Com Garagem em Prédio Novo Com Elevadores Entrega em Novembro,1.0,
+,450.0,,413000.0,18,102.0,74.0,2.0,Curitiba,Espaço Gourmet,Aceita FGTS,Cabral,Suítes,3.0,Apartamento,"rua Cel. Amazonas Marcondes, 1115",1.0,Oportunidade - Apto - 3 Dorms - 1 Suíte - 1 Vaga - Semi - Mobiliado - Cabral,1.0,
+,2950.0,,2840000.0,15,410.0,228.0,5.0,São Paulo,,,Moema,Suítes,4.0,Apartamento,Alameda dos Guaramomis,3.0,Apto Ricamente Decorado – Terraço Gourmet - Estudo Permutas!,4.0,
+,420.0,280.0,650000.0,,544.0,290.0,5.0,Vargem Grande Paulista,Acesso asfaltado,,Paysage Brise,Suítes,3.0,Casa,Rua Niagara 144,3.0,Linda Casa em Condomínio Fechado,5.0,
+,1100.0,357.0,800000.0,4,,142.0,5.0,São Paulo,Fitness/Sala de Ginástica,Aceita FGTS,Vila Andrade,Suítes,0.0,Apartamento,Rua Nicola Rollo,3.0,"Porteira Fechada - Apto 142 m&sup2;, 3 Suítes, 2 Vagas + Depósito",2.0,
+,900.0,300.0,1596000.0,10,,134.0,2.0,São Paulo,Espaço Gourmet,,Bela Vista,Armário de cozinha,1.0,Apartamento,R Itararé 168,1.0,Penthouse à Venda Com 134 m&sup2; - Bela Vista,2.0,
+,120.0,30.0,143900.0,Breve lançamento,35.0,34.0,1.0,São Paulo,Interfone,Aceita FGTS,Jardim Pedra Branca,Piso frio,2.0,Apartamento,"Rua Juá Mirim, 50",0.0,Apartamentos Leste/tiradentes Sp Sem Entrada!,0.0,
+,1300.0,1000.0,1149000.0,,,138.0,4.0,São Paulo,Fitness/Sala de Ginástica,,Jardim Anália Franco,Suítes,3.0,Apartamento,Rua Professor João de Oliveira Tôrres 580,3.0,Edifício Vila Nova De Gaia | Anália Franco,3.0,
+3100.0,850.0,150.0,760000.0,13,79.0,79.0,2.0,São Paulo,,,Vila Leopoldina,Churrasqueira,3.0,Apartamento,Rua Carlos Weber 890,1.0,"Apartamento Residencial à Venda, Vila Leopoldina, São Paulo.",2.0,3950.0
+,,,380000.0,,61.0,,,Florianópolis,,,Rio Tavares,,,Comercial,Doutor Antônio Luiz Moura Gonzaga 3339,,Comercial à Venda - em Rio Tavares,0.0,
+,720.0,,997400.0,,219.0,129.0,3.0,Curitiba,Espaço Gourmet,,Água Verde,SPA,2.0,Apartamento,RUA BRIGADEIRO FRANCO 3204,2.0,Apartamento à Venda - na Água Verde,2.0,
+3500.0,1100.0,299.0,,,,110.0,1.0,Rio de Janeiro,,,Barra da Tijuca,,3.0,Apartamento,Sob Consulta,1.0,Apartamento para Aluguel - na Barra Da Tijuca,2.0,4600.0
+38000.0,4500.0,,8900000.0,4,1000.0,625.0,4.0,São Paulo,Portaria 24 horas,,Jardim Paulista,,0.0,Comercial,Alameda Jaú,0.0,Laje Comercial - Excelente Localização - Perto Da Av Paulista. (Nunca Habitado).,6.0,42500.0
+,438.0,96.0,295000.0,13,61.0,61.0,1.0,Salvador,De esquina,,Pituba,Suítes,1.0,Apartamento,Avenida Antônio Carlos Magalhães,,"Apartamento à Venda, Pituba, Salvador",1.0,
+,3228.0,750.0,2750000.0,50,261.0,249.0,3.0,São Paulo,Salão de festas,,Higienópolis,Suítes,3.0,Apartamento,Rua Maranhao 251,1.0,"Apartamento Residencial à Venda, Higienópolis, São Paulo.",3.0,
+,1265.0,,1495000.0,44,230.0,163.0,2.0,,Fitness/Sala de Ginástica,,,Copa,3.0,Apartamento,,1.0,"Na Melhor Localização Do Bairro, Oportunidade De Negócio",1.0,
+,650.0,500.0,762146.0,1,4276.0,67.0,1.0,São Paulo,Fitness/Sala de Ginástica,Ocupado,Parque São Jorge,,3.0,Apartamento,Rua JOSE TAVARES Siqueira,1.0,"Aptos no Tatuapé,pronto para Morar Ultimas Unidades, Confira! Plantas Com 67 m&sup2;",1.0,
+,,,1295000.0,,450.0,341.0,1.0,Louveira,Acesso asfaltado,,Centro,Churrasqueira,1.0,Casa,Estrada Municipal Louveira Vinhedo 1532,,"Casa Residencial à Venda, Condomínio Villagio Capriccio, Louveira.",4.0,
+,3200.0,1631.0,2290000.0,34,522.0,304.0,5.0,São Paulo,,,Paraíso,Despensa,4.0,Apartamento,Rua Doutor Tomás Carvalhal 598,2.0,Alto Padrão - R$7.500 m&sup2; - Vai Perder?,3.0,
+,600.0,1.0,325000.0,3,41.0,41.0,1.0,Curitiba,Fitness/Sala de Ginástica,Aceita FGTS,Campina do Siqueira,Mobiliado,1.0,Apartamento,Paulo Zilioto 85,0.0,Apartamento Mobiliado/automatizado no Ecoville - Confira Esta Oportunidade!,1.0,
+1100.0,200.0,,,,,50.0,1.0,Santo André,Forno de pizza,,Utinga,Churrasqueira,2.0,Apartamento,Rua Ancara 100,,Apartamentos Aluguel Santo André.,2.0,1300.0
+,449.0,,390000.0,8,70.0,68.0,2.0,Taguatinga,Fitness/Sala de Ginástica,Andares,Taguatinga Sul,Guarita,3.0,Apartamento,QUADRA CSB 10 2/3,1.0,Csb 10 - Pratic Home - 03 Quartos - Nascente,1.0,
+,,,250000.0,,,50.0,2.0,Belo Horizonte,,,Santa Mônica,Aceita Financiamento,2.0,Apartamento,Sob Consulta,1.0,"Apartamento para Venda - Belo Horizonte / Mg, Bairro Santa Mônica",1.0,
+,,,380000.0,,100.0,95.0,3.0,Florianópolis,,,Ribeirão da Ilha,,2.0,Casa,R SEVERIANO F MARTINS 361,1.0,Casa em Florianopolis - Ribeirao Da Ilha,1.0,
+,434.0,228.0,245000.0,8,,60.0,1.0,Praia Grande,Salão de Jogos,,Cidade Ocian,Mobiliado,2.0,Apartamento,Rua Libero Badaro,1.0,"Apto 2 Dormitórios C/ Suite, Mobiliado, Vista Pro",1.0,
+,,,1100000.0,Breve lançamento,226.0,121.0,4.0,Balneário Camboriú,Espaço Gourmet,Andares,Centro,Suítes,3.0,Apartamento,RUA 3700 415,3.0,Oportunidade Alto Padrão,2.0,
+3500.0,885.0,250.0,,14,130.0,70.0,2.0,São Paulo,Fitness/Sala de Ginástica,Posição do Apto,Moema,Suítes,2.0,Apartamento,"JANDIRA, 79",1.0,"Le Quartier Moema!2 Vagas! 70 M&sup2;!jandira, 79!lazer De Clube",2.0,4385.0
+,717.0,110.0,639000.0,7,,64.0,2.0,São Paulo,Elevador,,Saúde,Churrasqueira,2.0,Apartamento,R DOUTOR JOSÉ OSÓRIO DE OLIVEIRA AZEVEDO,1.0,"2 Dormitórios, Suite, Garagem, 64 Útil, Próximo Metro Saúde",1.0,
+,,,159900.0,Breve lançamento,41.0,41.0,1.0,São Paulo,Fitness/Sala de Ginástica,Aceita FGTS,Jardim Apurá,Cozinha americana,2.0,Apartamento,"Avenida Cupecê,1840",0.0,Chegou A Hora De Conquistar O Que É Seu!apto 1e 2 Dorms A Partir R$159.900,0.0,
+5500.0,1900.0,,,,,160.0,2.0,Rio de Janeiro,,,Barra da Tijuca,,3.0,Apartamento,Avenida Lucio Costa 3360,3.0,Apartamento para Aluguel - na Barra Da Tijuca,2.0,7400.0
+,150.0,800.0,336000.0,4,116.0,93.0,3.0,Porto Alegre,,,Ipanema,Mobiliado,3.0,Casa,Rua Dea Coufal,1.0,Casa à Venda - em Ipanema,1.0,
+,583.0,300.0,930000.0,,420.0,230.0,4.0,Campinas,Quadra poliesportiva,,Swiss Park,Suítes,3.0,Casa,Sob Consulta s/n,3.0,Casa à Venda em Swiss Park,4.0,
+2500.0,700.0,40.0,,,70.0,70.0,1.0,São Paulo,Fitness/Sala de Ginástica,,Consolação,Armário de cozinha,1.0,Apartamento,Bela Cintra,0.0,Apartamento para Aluguel - na Consolação,1.0,3200.0
+,1.0,1.0,3890000.0,10,750.0,750.0,7.0,Curitiba,Interfone,Ocupado,Vista Alegre,Suítes,5.0,Casa,Niccolo Paganini,5.0,Casa Alto Padrão - 600 m&sup2; - Jardim Schaffer,7.0,
+,,,3200000.0,,596.0,,0.0,São Sebastião,Sauna,Andares,Centro,Suítes,4.0,Casa,Estrada Cambury 675,4.0,"Casa A Venda em São Sebastião Costa Sul, Casa em Condomínio Cambury",5.0,
+,,,1100000.0,10,401.0,350.0,1.0,Curitiba,Acesso asfaltado,,Água Verde,Mezanino,0.0,Comercial,"Rua Brigadeiro Franco, 3995",0.0,Loja Comercial Bem Localizada!,5.0,
+,,,678930.0,1,140.0,104.0,2.0,Curitiba,Espaço Gourmet,,Portão,Suítes,3.0,Apartamento,"R. Eng. Niepce da Silva, 14",1.0,Le Jardin - 3 Quartos 2 Vagas 104 m&sup2; Privativos,1.0,
+,953.0,200.0,849000.0,,252.0,206.0,5.0,Vinhedo,Acesso asfaltado,,Centro,Suítes,3.0,Casa,Rua dos Servidores Público 490,3.0,"Casa Residencial à Venda, Condomínio Residencial Village San Nicholas, Vinhedo.",2.0,
+,390.0,600.0,305900.0,1,8000.0,70.0,2.0,São Bernardo do Campo,Fitness/Sala de Ginástica,Aceita FGTS,Vila Santa Rita de Cássia,Suítes,3.0,Apartamento,Rua Comendador carlo mario gardano,1.0,Apartamento Sbc - 3 Dorms - Suíte - Varanda - Vaga Livre,1.0,
+,,500.0,45000.0,10,200.0,180.0,3.0,São Paulo,Acesso asfaltado,Ocupado,Vila Guilhermina,Suítes,2.0,Casa,Rua Jandaia do Sul,1.0,"Casa à Venda - Vila Guilhermina, São Paulo - Sp (Leia A Descrição)",4.0,
+,980.0,1200.0,820000.0,8,190.0,135.0,5.0,Águas Claras,Fitness/Sala de Ginástica,Aceita FGTS,Aguas Sul,Suítes,3.0,Apartamento,Rua 05 Sul,3.0,Costa Do Sol - Apartamento 3 Suítes Reformado Varanda Goumert,2.0,
+,,850.0,12000000.0,,1600.0,1150.0,8.0,Brasília,,,Lago Sul,,5.0,Casa,QD SHIS QL 12 3,5.0,Maravilhoso Terreno - Ql 12 - Ótima Casa,8.0,
+900.0,388.0,39.0,,,52.0,,,Curitiba,Salão de festas,,Bigorrilho,Área de serviço,2.0,Apartamento,Padre Anchieta 2636,0.0,Apartamento para Aluguel - em Bigorrilho,0.0,1288.0
+,450.0,,320000.0,7,,50.0,1.0,São Paulo,Interfone,,Rio Pequeno,Ar condicionado,2.0,Apartamento,Av. do Rio Pequeno,0.0,"Apartamento Com 2 Dormitórios, Ao Lado Da Cidade Universitária, Com Móveis!",1.0,
+,,,530000.0,5,98.0,70.0,2.0,Curitiba,Espaço Gourmet,,Rebouças,Suítes,2.0,Apartamento,Av. Pres. Getúlio Vargas,1.0,Boulevard Rebouças - 2 Quartos (Semi - Mobiliado),1.0,
+,1400.0,2500.0,1210000.0,9,110.0,110.0,4.0,Rio de Janeiro,Estacionamento para visitantes,,Barra da Tijuca,Suítes,2.0,Apartamento,Rua dos Jacarandás 300,2.0,2 Suites 2 Vagas 110 m&sup2;,2.0,
+1100.0,419.0,223.0,180000.0,,,48.0,1.0,Praia Grande,Sistema de alarme,,Vila Tupi,Elevador,1.0,Apartamento,Rua Suias 124,,"Apartamento Residencial à Venda, Vila Tupi, Praia Grande.",,1519.0
+,,,3200000.0,,3200.0,3200.0,,Lauro de Freitas,Frente para o mar,,Centro,Frente para o mar,,Terreno,Avenida Luiz Tarquínio 2899,,"Terreno para Venda - Lauro De Freitas / Ba, Bairro Villas Do Atlântico",,
+,,,80000.0,,360.0,,0.0,,,,,,0.0,Terreno,,0.0,"Terreno, Lopes De Oliveira, Sorocaba - R$80.000",0.0,
+,,,7900000.0,10,3000.0,1200.0,7.0,Rio de Janeiro,,,Barra da Tijuca,,5.0,Casa,américas,5.0,Arouca - Majestosa Mansão no Centro Da Barra - Terreno Duplo De 3.000 m&sup2;,3.0,
+,730.0,830.0,530000.0,1,234.0,113.0,4.0,São Paulo,Fitness/Sala de Ginástica,Aceita FGTS,Jardim Umuarama,Suítes,3.0,Casa,"av interlagos,4455",1.0,Sobrado no Condomínio Terrara 95 m&sup2; 3 (Dorms) 2 (Vagas),2.0,
+,840.0,,1800000.0,,590.0,390.0,7.0,Vinhedo,Quadra poliesportiva,,Condominio Jardim Paulista II,Suítes,5.0,Casa,Sob Consulta 500,4.0,Casa à Venda em Condomínio Jardim Paulista I,4.0,
+,1300.0,1.0,879000.0,3,140.0,115.0,3.0,Curitiba,Fitness/Sala de Ginástica,Aceita FGTS,Batel,Suítes,2.0,Apartamento,"Rua Francisco Rocha, 1527",2.0,Cobertura Concetto Batel - Mobiliada E Decorada 2suítes 2 Vagas.,2.0,
+,490.0,,289000000.0,13,,63.0,1.0,Porto Alegre,Espaço Gourmet,Aceita FGTS,Sarandi,Carpete de madeira,3.0,Apartamento,avenida Sertorio,0.0,Apartamento 3 Quartos - 1 Vaga Coberta - Infra De Lazer - O Melhor Da Zona Norte,1.0,
+,416.0,162.0,130000.0,,,48.0,1.0,Praia Grande,,,Vila Guilhermina,Churrasqueira,1.0,Apartamento,Rua Gávea 108,,"Apartamento Residencial à Venda, Vila Guilhermina, Praia Grande.",1.0,
+,,,1050000.0,3,160.0,83.0,3.0,Brasília,Fitness/Sala de Ginástica,Aceita FGTS,Noroeste,Suítes,2.0,Apartamento,SQNW 108,1.0,Noroeste - Apartamento 2 Quartos 1 Suíte Canto 6o Andar Vista Livre!,2.0,
+,274.0,,310000.0,,64.0,33.0,1.0,Brasília,Interfone,Andares,Asa Norte,Aceita Financiamento,1.0,Apartamento,CLNW 10/11 ED NEO 104,,"Clnw 10 - Ed Neo - Melhor Comércio, Aceita Financiamento E Fgts! Novissimo!",1.0,
